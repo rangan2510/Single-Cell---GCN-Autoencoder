@@ -1,0 +1,567 @@
+﻿Gene 1,Gene 2,Weight,Network group,Network
+Zbtb20,Nfia,0.026812451,Co-expression,Gallardo-Castrillon-2007
+Zfpm2,Tenm4,0.011370054,Co-expression,Gallardo-Castrillon-2007
+Ppp2r2b,Galntl6,0.02736294,Co-expression,Gallardo-Castrillon-2007
+Ntm,Nrxn3,0.010187504,Co-expression,Gallardo-Castrillon-2007
+Ntm,Ppfia2,0.008761651,Co-expression,Gallardo-Castrillon-2007
+Ntm,Lrrtm4,0.010101311,Co-expression,Gallardo-Castrillon-2007
+Ntm,Kirrel3,0.009325879,Co-expression,Gallardo-Castrillon-2007
+Cadps,Nrxn3,0.014375398,Co-expression,Gallardo-Castrillon-2007
+Cadps,Ppfia2,0.011323632,Co-expression,Gallardo-Castrillon-2007
+Cadps,Cntnap2,0.01480506,Co-expression,Gallardo-Castrillon-2007
+Amer2,Galntl6,0.017286513,Co-expression,Gallardo-Castrillon-2007
+Amer2,Rfx3,0.015161229,Co-expression,Gallardo-Castrillon-2007
+Amer2,Ppp2r2b,0.016487245,Co-expression,Gallardo-Castrillon-2007
+Amer2,Khdrbs3,0.01334981,Co-expression,Gallardo-Castrillon-2007
+Pclo,Ppfia2,0.021608263,Co-expression,Gallardo-Castrillon-2007
+Phyhipl,Ppp2r2b,0.01923239,Co-expression,Gallardo-Castrillon-2007
+Phyhipl,Khdrbs3,0.016040664,Co-expression,Gallardo-Castrillon-2007
+Phyhipl,Amer2,0.014268077,Co-expression,Gallardo-Castrillon-2007
+Rgs8,Nrxn3,0.007405173,Co-expression,Gallardo-Castrillon-2007
+Rgs8,Lrrtm4,0.006623691,Co-expression,Gallardo-Castrillon-2007
+Rgs8,Cntnap2,0.008180931,Co-expression,Gallardo-Castrillon-2007
+Rgs8,Ntm,0.002620199,Co-expression,Gallardo-Castrillon-2007
+Rgs8,Cadps,0.003436844,Co-expression,Gallardo-Castrillon-2007
+Rgs8,Pclo,0.00636094,Co-expression,Gallardo-Castrillon-2007
+Mdga2,Nrxn3,0.0171081,Co-expression,Gallardo-Castrillon-2007
+Mdga2,Ppfia2,0.014693444,Co-expression,Gallardo-Castrillon-2007
+Mdga2,Cadps,0.007870734,Co-expression,Gallardo-Castrillon-2007
+Mdga2,Rgs8,0.003912814,Co-expression,Gallardo-Castrillon-2007
+Lsamp,Nrxn3,0.021038938,Co-expression,Gallardo-Castrillon-2007
+Lsamp,Cadps,0.009739469,Co-expression,Gallardo-Castrillon-2007
+Lsamp,Rgs8,0.005188284,Co-expression,Gallardo-Castrillon-2007
+Lsamp,Mdga2,0.011246646,Co-expression,Gallardo-Castrillon-2007
+Cntn6,Erc2,0.013995404,Co-expression,Gallardo-Castrillon-2007
+Sv2b,Nrxn3,0.00885138,Co-expression,Gallardo-Castrillon-2007
+Sv2b,Ppfia2,0.00786605,Co-expression,Gallardo-Castrillon-2007
+Sv2b,Lrrtm4,0.008572216,Co-expression,Gallardo-Castrillon-2007
+Sv2b,Kirrel3,0.00787352,Co-expression,Gallardo-Castrillon-2007
+Sv2b,Ntm,0.003176302,Co-expression,Gallardo-Castrillon-2007
+Sv2b,Pclo,0.007488797,Co-expression,Gallardo-Castrillon-2007
+Sv2b,Rgs8,0.002347716,Co-expression,Gallardo-Castrillon-2007
+Sv2b,Lsamp,0.006111119,Co-expression,Gallardo-Castrillon-2007
+Sv2b,Cntn6,0.005910308,Co-expression,Gallardo-Castrillon-2007
+Il1rapl1,Ptchd4,0.013508921,Co-expression,Gallardo-Castrillon-2007
+Il1rapl1,Kirrel3,0.014901476,Co-expression,Gallardo-Castrillon-2007
+Cyp4x1,Ptchd4,0.011714755,Co-expression,Gallardo-Castrillon-2007
+Cyp4x1,Lrrtm4,0.013770366,Co-expression,Gallardo-Castrillon-2007
+Cyp4x1,Kirrel3,0.012724779,Co-expression,Gallardo-Castrillon-2007
+Cyp4x1,Ntm,0.004350555,Co-expression,Gallardo-Castrillon-2007
+Cyp4x1,Pclo,0.010485738,Co-expression,Gallardo-Castrillon-2007
+Cyp4x1,Sv2b,0.003854178,Co-expression,Gallardo-Castrillon-2007
+Phactr3,Erc2,0.015164902,Co-expression,Gallardo-Castrillon-2007
+Phactr3,Cntn6,0.015954915,Co-expression,Gallardo-Castrillon-2007
+Nphs2,Slc8a1,0.020831386,Co-expression,Gallardo-Castrillon-2007
+Tenm4,Nfia,0.012408938,Co-expression,Thorrez-Schuit-2008
+Zbtb20,Tenm4,0.01148785,Co-expression,Thorrez-Schuit-2008
+Erc2,Lrrtm4,0.0082371,Co-expression,Thorrez-Schuit-2008
+Ext1,Tenm4,0.014860676,Co-expression,Thorrez-Schuit-2008
+Khdrbs3,Galntl6,0.012461446,Co-expression,Thorrez-Schuit-2008
+Khdrbs3,Cntnap2,0.013026862,Co-expression,Thorrez-Schuit-2008
+Khdrbs3,Ppp2r2b,0.012492079,Co-expression,Thorrez-Schuit-2008
+Ntm,Ptchd4,0.011380149,Co-expression,Thorrez-Schuit-2008
+Ntm,Nrxn3,0.011758826,Co-expression,Thorrez-Schuit-2008
+Cadps,Nrxn3,0.01072042,Co-expression,Thorrez-Schuit-2008
+Cadps,Ppfia2,0.009836786,Co-expression,Thorrez-Schuit-2008
+Cadps,Cntnap2,0.009483533,Co-expression,Thorrez-Schuit-2008
+Cadps,Ntm,0.004488405,Co-expression,Thorrez-Schuit-2008
+Amer2,Cntnap2,0.0185591,Co-expression,Thorrez-Schuit-2008
+Amer2,Rfx3,0.017163273,Co-expression,Thorrez-Schuit-2008
+Amer2,Ppp2r2b,0.01720077,Co-expression,Thorrez-Schuit-2008
+Amer2,Khdrbs3,0.008932691,Co-expression,Thorrez-Schuit-2008
+Elavl3,Kirrel3,0.011633395,Co-expression,Thorrez-Schuit-2008
+Elavl3,Elavl2,0.013594004,Co-expression,Thorrez-Schuit-2008
+Elavl3,Ntm,0.005415047,Co-expression,Thorrez-Schuit-2008
+Pclo,Ppfia2,0.01321414,Co-expression,Thorrez-Schuit-2008
+Pclo,Erc2,0.005942176,Co-expression,Thorrez-Schuit-2008
+Phyhipl,Galntl6,0.017572336,Co-expression,Thorrez-Schuit-2008
+Phyhipl,Rfx3,0.017963363,Co-expression,Thorrez-Schuit-2008
+Phyhipl,Khdrbs3,0.009866629,Co-expression,Thorrez-Schuit-2008
+Phyhipl,Amer2,0.013481628,Co-expression,Thorrez-Schuit-2008
+Cldn3,Ptprf,0.010305525,Co-expression,Thorrez-Schuit-2008
+Rgs8,Ppfia2,0.011715598,Co-expression,Thorrez-Schuit-2008
+Rgs8,Cntnap2,0.012609447,Co-expression,Thorrez-Schuit-2008
+Rgs8,Ppp2r2b,0.011289779,Co-expression,Thorrez-Schuit-2008
+Rgs8,Ntm,0.004875685,Co-expression,Thorrez-Schuit-2008
+Rgs8,Cadps,0.004813772,Co-expression,Thorrez-Schuit-2008
+Rgs8,Amer2,0.007882391,Co-expression,Thorrez-Schuit-2008
+Mdga2,Ppfia2,0.01595518,Co-expression,Thorrez-Schuit-2008
+Mdga2,Lrrtm4,0.012236023,Co-expression,Thorrez-Schuit-2008
+Mdga2,Ntm,0.007189007,Co-expression,Thorrez-Schuit-2008
+Mdga2,Cadps,0.006426873,Co-expression,Thorrez-Schuit-2008
+Mdga2,Elavl3,0.008174722,Co-expression,Thorrez-Schuit-2008
+Lsamp,Nrxn3,0.014859444,Co-expression,Thorrez-Schuit-2008
+Lsamp,Lrrtm4,0.010390135,Co-expression,Thorrez-Schuit-2008
+Lsamp,Cntnap2,0.013081837,Co-expression,Thorrez-Schuit-2008
+Lsamp,Ntm,0.006231519,Co-expression,Thorrez-Schuit-2008
+Lsamp,Cadps,0.005723824,Co-expression,Thorrez-Schuit-2008
+Lsamp,Rgs8,0.006483271,Co-expression,Thorrez-Schuit-2008
+Lsamp,Mdga2,0.009041152,Co-expression,Thorrez-Schuit-2008
+Cntn6,Ptchd4,0.01079077,Co-expression,Thorrez-Schuit-2008
+Cntn6,Nrxn3,0.010806018,Co-expression,Thorrez-Schuit-2008
+Cntn6,Kirrel3,0.008789879,Co-expression,Thorrez-Schuit-2008
+Cntn6,Elavl2,0.010000545,Co-expression,Thorrez-Schuit-2008
+Cntn6,Ppp2r2b,0.009071987,Co-expression,Thorrez-Schuit-2008
+Cntn6,Ntm,0.004532998,Co-expression,Thorrez-Schuit-2008
+Cntn6,Cadps,0.003916178,Co-expression,Thorrez-Schuit-2008
+Cntn6,Elavl3,0.005001161,Co-expression,Thorrez-Schuit-2008
+Cntn6,Mdga2,0.006602241,Co-expression,Thorrez-Schuit-2008
+Cntn6,Lsamp,0.005549514,Co-expression,Thorrez-Schuit-2008
+Sv2b,Nrxn3,0.011990665,Co-expression,Thorrez-Schuit-2008
+Sv2b,Cntnap2,0.010428823,Co-expression,Thorrez-Schuit-2008
+Sv2b,Ppp2r2b,0.009451103,Co-expression,Thorrez-Schuit-2008
+Sv2b,Ntm,0.004899893,Co-expression,Thorrez-Schuit-2008
+Sv2b,Cadps,0.004573972,Co-expression,Thorrez-Schuit-2008
+Sv2b,Rgs8,0.005176865,Co-expression,Thorrez-Schuit-2008
+Sv2b,Lsamp,0.006347631,Co-expression,Thorrez-Schuit-2008
+Sv2b,Cntn6,0.00432895,Co-expression,Thorrez-Schuit-2008
+Il1rapl1,Ptchd4,0.009677605,Co-expression,Thorrez-Schuit-2008
+Il1rapl1,Lrrtm4,0.007184812,Co-expression,Thorrez-Schuit-2008
+Il1rapl1,Kirrel3,0.008085504,Co-expression,Thorrez-Schuit-2008
+Il1rapl1,Elavl2,0.00964581,Co-expression,Thorrez-Schuit-2008
+Il1rapl1,Ntm,0.004135614,Co-expression,Thorrez-Schuit-2008
+Il1rapl1,Elavl3,0.004668555,Co-expression,Thorrez-Schuit-2008
+Il1rapl1,Mdga2,0.006040646,Co-expression,Thorrez-Schuit-2008
+Il1rapl1,Cntn6,0.003745492,Co-expression,Thorrez-Schuit-2008
+Cyp4x1,Kirrel3,0.016319184,Co-expression,Thorrez-Schuit-2008
+Cyp4x1,Ntm,0.007706807,Co-expression,Thorrez-Schuit-2008
+Cyp4x1,Cadps,0.00666898,Co-expression,Thorrez-Schuit-2008
+Cyp4x1,Lsamp,0.009578376,Co-expression,Thorrez-Schuit-2008
+Cyp4x1,Cntn6,0.006922276,Co-expression,Thorrez-Schuit-2008
+Cyp4x1,Sv2b,0.007418902,Co-expression,Thorrez-Schuit-2008
+Cyp4x1,Il1rapl1,0.006477472,Co-expression,Thorrez-Schuit-2008
+Phactr3,Erc2,0.005557446,Co-expression,Thorrez-Schuit-2008
+Phactr3,Khdrbs3,0.006875501,Co-expression,Thorrez-Schuit-2008
+Phactr3,Phyhipl,0.007846333,Co-expression,Thorrez-Schuit-2008
+Runx1t1,Zbtb20,0.016423479,Co-expression,Hovatta-Barlow-2005
+Ext1,Zbtb20,0.01399493,Co-expression,Hovatta-Barlow-2005
+Ext1,Runx1t1,0.01427943,Co-expression,Hovatta-Barlow-2005
+Elavl3,Ppp2r2b,0.004000555,Co-expression,Hovatta-Barlow-2005
+Rgs8,Elavl2,0.005834685,Co-expression,Hovatta-Barlow-2005
+Zbtb20,Nfia,0.022874484,Co-expression,Peng-Stevenson-2013
+Elavl2,Kcnn2,0.01786683,Co-expression,Peng-Stevenson-2013
+Erc2,Phactr1,0.012071246,Co-expression,Peng-Stevenson-2013
+Lsamp,Pclo,0.02586477,Co-expression,Peng-Stevenson-2013
+Prox1,Kcnn2,0.004888572,Co-expression,Rinn-Snyder-2004
+Prox1,Hs6st3,0.011717179,Co-expression,Rinn-Snyder-2004
+Cadps,Zbtb20,0.006528027,Co-expression,Rinn-Snyder-2004
+Cadps,Runx1t1,0.003854759,Co-expression,Rinn-Snyder-2004
+Cadps,Cntnap2,0.007258,Co-expression,Rinn-Snyder-2004
+Cadps,Elavl2,0.007897517,Co-expression,Rinn-Snyder-2004
+Cadps,Ntm,0.006095839,Co-expression,Rinn-Snyder-2004
+Elavl3,Cadps,0.007595124,Co-expression,Rinn-Snyder-2004
+Pclo,Cadps,0.00442796,Co-expression,Rinn-Snyder-2004
+Phyhipl,Phactr1,0.016427908,Co-expression,Rinn-Snyder-2004
+Phyhipl,Ppp2r2b,0.008702449,Co-expression,Rinn-Snyder-2004
+Rgs8,Elavl2,0.011195011,Co-expression,Rinn-Snyder-2004
+Rgs8,Ntm,0.008655095,Co-expression,Rinn-Snyder-2004
+Rgs8,Cadps,0.002086506,Co-expression,Rinn-Snyder-2004
+Cntn6,Phactr1,0.006257224,Co-expression,Rinn-Snyder-2004
+Cntn6,Cadps,0.002585147,Co-expression,Rinn-Snyder-2004
+Zbtb20,Nfia,0.017173164,Co-expression,Anderson-Neville-2007
+Srrm2,Elavl2,0.002217225,Co-expression,Anderson-Neville-2007
+Cadps,Elavl2,0.009260355,Co-expression,Anderson-Neville-2007
+Cadps,Srrm2,0.009897582,Co-expression,Anderson-Neville-2007
+Pclo,Ppp2r2b,0.009079535,Co-expression,Anderson-Neville-2007
+Zbtb20,Nfia,0.017748022,Co-expression,Tarnavski-Izumo-2004
+Runx1t1,Zbtb20,0.00980341,Co-expression,Tarnavski-Izumo-2004
+Elavl3,Ppp2r2b,0.01148204,Co-expression,Tarnavski-Izumo-2004
+Cldn3,Srrm2,0.014014264,Co-expression,Tarnavski-Izumo-2004
+Kirrel3,Nrxn3,0.02140666,Co-expression,Lattin-Sweet-2008
+Erc2,Lrrtm4,0.007413073,Co-expression,Lattin-Sweet-2008
+Erc2,Cntnap2,0.006909635,Co-expression,Lattin-Sweet-2008
+Cadps,Elavl2,0.008989032,Co-expression,Lattin-Sweet-2008
+Cadps,Ppp2r2b,0.00828027,Co-expression,Lattin-Sweet-2008
+Amer2,Galntl6,0.01344555,Co-expression,Lattin-Sweet-2008
+Elavl3,Nrxn3,0.008530022,Co-expression,Lattin-Sweet-2008
+Elavl3,Kirrel3,0.00848155,Co-expression,Lattin-Sweet-2008
+Elavl3,Ntm,0.004698562,Co-expression,Lattin-Sweet-2008
+Pclo,Ntm,0.010324759,Co-expression,Lattin-Sweet-2008
+Phyhipl,Amer2,0.009743766,Co-expression,Lattin-Sweet-2008
+Cldn3,Ptprf,0.010547085,Co-expression,Lattin-Sweet-2008
+Rgs8,Ptchd4,0.0121911,Co-expression,Lattin-Sweet-2008
+Rgs8,Kirrel3,0.01164429,Co-expression,Lattin-Sweet-2008
+Rgs8,Zfpm2,0.011911965,Co-expression,Lattin-Sweet-2008
+Rgs8,Cnnm3,0.008054206,Co-expression,Lattin-Sweet-2008
+Mdga2,Erc2,0.003768552,Co-expression,Lattin-Sweet-2008
+Mdga2,Ppp2r2b,0.015866399,Co-expression,Lattin-Sweet-2008
+Cntn6,Ptchd4,0.01215957,Co-expression,Lattin-Sweet-2008
+Cntn6,Kirrel3,0.011658289,Co-expression,Lattin-Sweet-2008
+Cntn6,Zfpm2,0.011366376,Co-expression,Lattin-Sweet-2008
+Cntn6,Pclo,0.010720949,Co-expression,Lattin-Sweet-2008
+Cntn6,Rgs8,0.006643886,Co-expression,Lattin-Sweet-2008
+Sv2b,Khdrbs3,0.007085616,Co-expression,Lattin-Sweet-2008
+Il1rapl1,Nrxn3,0.010471858,Co-expression,Lattin-Sweet-2008
+Il1rapl1,Lrrtm4,0.012128442,Co-expression,Lattin-Sweet-2008
+Il1rapl1,Erc2,0.003643961,Co-expression,Lattin-Sweet-2008
+Cyp4x1,Elavl2,0.019241113,Co-expression,Lattin-Sweet-2008
+Cyp4x1,Cadps,0.006228609,Co-expression,Lattin-Sweet-2008
+Phactr3,Nrxn3,0.005606778,Co-expression,Lattin-Sweet-2008
+Phactr3,Erc2,0.002124216,Co-expression,Lattin-Sweet-2008
+Phactr3,Il1rapl1,0.003634072,Co-expression,Lattin-Sweet-2008
+Hs6st3,Rfx3,0.023947578,Co-expression,Andrechek-Nevins-2009
+Slc8a1,Zbtb20,0.00948077,Co-expression,Moggs-Orphanides-2004
+Cadps,Zbtb20,0.006763628,Co-expression,Moggs-Orphanides-2004
+Zfpm2,Zbtb20,0.014925343,Co-expression,Hernandez-Novoa-Kovacs-2008
+Cadps,Elavl2,0.012414234,Co-expression,Jacobs-Benoist-2010
+Ptprf,Nfia,0.008756305,Co-expression,Jacobs-Benoist-2010
+Rgs8,Srrm2,0.007284302,Co-expression,Jacobs-Benoist-2010
+Rgs8,Cadps,0.008230214,Co-expression,Jacobs-Benoist-2010
+Rgs8,Pclo,0.006744398,Co-expression,Jacobs-Benoist-2010
+Cadps,Srrm2,0.012285218,Co-expression,Boivin-Vidal-2012
+Rgs8,Tenm4,0.005799033,Co-expression,Boivin-Vidal-2012
+Ext1,Zbtb20,0.009508248,Co-expression,Singh-Darlington-2011
+Cldn3,Ptprf,0.008162002,Co-expression,Singh-Darlington-2011
+Hs6st3,Kirrel3,0.004659065,Co-localization,Zhang-Hughes-2004
+Hs6st3,Phactr1,0.005367611,Co-localization,Zhang-Hughes-2004
+Hs6st3,Cntnap2,0.003847352,Co-localization,Zhang-Hughes-2004
+Slc8a1,Lrrtm4,0.012614824,Co-localization,Zhang-Hughes-2004
+Erc2,Kirrel3,0.004004328,Co-localization,Zhang-Hughes-2004
+Erc2,Hs6st3,0.002240124,Co-localization,Zhang-Hughes-2004
+Ntm,Kirrel3,0.005616091,Co-localization,Zhang-Hughes-2004
+Ntm,Phactr1,0.006643841,Co-localization,Zhang-Hughes-2004
+Ntm,Erc2,0.005154349,Co-localization,Zhang-Hughes-2004
+Ntm,Ppp2r2b,0.007345884,Co-localization,Zhang-Hughes-2004
+Prox1,Ntm,0.009900323,Co-localization,Zhang-Hughes-2004
+Cadps,Ntm,0.004755187,Co-localization,Zhang-Hughes-2004
+Cadps,Prox1,0.014029905,Co-localization,Zhang-Hughes-2004
+Amer2,Ppp2r2b,0.015371153,Co-localization,Zhang-Hughes-2004
+Amer2,Ntm,0.007001424,Co-localization,Zhang-Hughes-2004
+Elavl3,Cadps,0.007571468,Co-localization,Zhang-Hughes-2004
+Elavl3,Amer2,0.010563553,Co-localization,Zhang-Hughes-2004
+Phyhipl,Phactr1,0.012290149,Co-localization,Zhang-Hughes-2004
+Phyhipl,Ppp2r2b,0.014078422,Co-localization,Zhang-Hughes-2004
+Phyhipl,Ntm,0.005886008,Co-localization,Zhang-Hughes-2004
+Phyhipl,Amer2,0.012701868,Co-localization,Zhang-Hughes-2004
+Rgs8,Kirrel3,0.010298967,Co-localization,Zhang-Hughes-2004
+Rgs8,Ntm,0.006257901,Co-localization,Zhang-Hughes-2004
+Rgs8,Prox1,0.017907362,Co-localization,Zhang-Hughes-2004
+Rgs8,Cadps,0.008889956,Co-localization,Zhang-Hughes-2004
+Rgs8,Elavl3,0.010127807,Co-localization,Zhang-Hughes-2004
+Lsamp,Kirrel3,0.003324209,Co-localization,Zhang-Hughes-2004
+Lsamp,Cntnap2,0.002665632,Co-localization,Zhang-Hughes-2004
+Lsamp,Hs6st3,0.001706856,Co-localization,Zhang-Hughes-2004
+Lsamp,Ntm,0.002058561,Co-localization,Zhang-Hughes-2004
+Lsamp,Cadps,0.002782406,Co-localization,Zhang-Hughes-2004
+Lsamp,Rgs8,0.00374557,Co-localization,Zhang-Hughes-2004
+Cntn6,Ntm,0.006806607,Co-localization,Zhang-Hughes-2004
+Cntn6,Prox1,0.020039055,Co-localization,Zhang-Hughes-2004
+Cntn6,Amer2,0.013694392,Co-localization,Zhang-Hughes-2004
+Cntn6,Phyhipl,0.0118531,Co-localization,Zhang-Hughes-2004
+Cntn6,Rgs8,0.012926444,Co-localization,Zhang-Hughes-2004
+Cntn6,Lsamp,0.003901078,Co-localization,Zhang-Hughes-2004
+Sv2b,Hs6st3,0.005428713,Co-localization,Zhang-Hughes-2004
+Sv2b,Ppp2r2b,0.014240708,Co-localization,Zhang-Hughes-2004
+Sv2b,Lsamp,0.003924191,Co-localization,Zhang-Hughes-2004
+Il1rapl1,Rfx3,0.012197949,Co-localization,Zhang-Hughes-2004
+Il1rapl1,Slc8a1,0.021080442,Co-localization,Zhang-Hughes-2004
+Phactr3,Lsamp,0.003961447,Co-localization,Zhang-Hughes-2004
+Kirrel3,Lrrtm4,0.021297038,Co-localization,Siddiqui-Marra-2005
+Erc2,Phactr1,0.009559874,Co-localization,Siddiqui-Marra-2005
+Ppp2r2b,Phactr1,0.007174529,Co-localization,Siddiqui-Marra-2005
+Ntm,Phactr1,0.006487283,Co-localization,Siddiqui-Marra-2005
+Cadps,Lrrtm4,0.009253853,Co-localization,Siddiqui-Marra-2005
+Cadps,Erc2,0.012550134,Co-localization,Siddiqui-Marra-2005
+Amer2,Cadps,0.011462523,Co-localization,Siddiqui-Marra-2005
+Elavl3,Bcl11a,0.007200824,Co-localization,Siddiqui-Marra-2005
+Phyhipl,Dmd,0.007032181,Co-localization,Siddiqui-Marra-2005
+Phyhipl,Erc2,0.008915098,Co-localization,Siddiqui-Marra-2005
+Psmf1,Cadps,0.010231968,Co-localization,Siddiqui-Marra-2005
+Lsamp,Amer2,0.015540422,Co-localization,Siddiqui-Marra-2005
+Lsamp,Elavl3,0.004848735,Co-localization,Siddiqui-Marra-2005
+Cntn6,Phyhipl,0.008005281,Co-localization,Siddiqui-Marra-2005
+Sv2b,Phyhipl,0.007660843,Co-localization,Siddiqui-Marra-2005
+Cyp4x1,Elavl2,0.01542515,Co-localization,Siddiqui-Marra-2005
+Phactr3,Erc2,0.022320615,Co-localization,Siddiqui-Marra-2005
+Phactr3,Cadps,0.010168875,Co-localization,Siddiqui-Marra-2005
+Kirrel3,Ppfia2,0.009064194,Co-localization,Su-Hogenesch-2004
+Zfpm2,Rfx3,0.01866166,Co-localization,Su-Hogenesch-2004
+Ppp2r2b,Phactr1,0.01838283,Co-localization,Su-Hogenesch-2004
+Cadps,Ppfia2,0.003814948,Co-localization,Su-Hogenesch-2004
+Cadps,Ppp2r2b,0.00538715,Co-localization,Su-Hogenesch-2004
+Amer2,Ppfia2,0.012344417,Co-localization,Su-Hogenesch-2004
+Amer2,Ppp2r2b,0.018345844,Co-localization,Su-Hogenesch-2004
+Phyhipl,Lrrtm4,0.012478754,Co-localization,Su-Hogenesch-2004
+Rgs8,Kirrel3,0.013484957,Co-localization,Su-Hogenesch-2004
+Lsamp,Rgs8,0.007847153,Co-localization,Su-Hogenesch-2004
+Cntn6,Hdac8,0.018547725,Co-localization,Su-Hogenesch-2004
+Cntn6,Rgs8,0.014600362,Co-localization,Su-Hogenesch-2004
+Sv2b,Ppfia2,0.009426426,Co-localization,Su-Hogenesch-2004
+Sv2b,Phactr1,0.01567117,Co-localization,Su-Hogenesch-2004
+Sv2b,Ppp2r2b,0.012892387,Co-localization,Su-Hogenesch-2004
+Sv2b,Cadps,0.004856679,Co-localization,Su-Hogenesch-2004
+Cyp4x1,Elavl2,0.01969452,Co-localization,Su-Hogenesch-2004
+Cyp4x1,Cadps,0.006833252,Co-localization,Su-Hogenesch-2004
+Phactr3,Ntm,0.007330678,Co-localization,Su-Hogenesch-2004
+Dmd,Zfpm2,0.009043238,Other,Phenotype-MGI
+Cadps,Zfpm2,0.021692768,Other,Phenotype-MGI
+Cadps,Prox1,0.005126557,Other,Phenotype-MGI
+Erc2,Slc8a1,0.016984874,Other,Conservation profile-Phylogeny
+Psmf1,Elavl2,0.020630268,Other,Conservation profile-Phylogeny
+Nfia,Nrxn3,0.000455416,Predicted,Guan-Troyanskaya-2008 MouseNET
+Kirrel3,Nrxn3,0.002072666,Predicted,Guan-Troyanskaya-2008 MouseNET
+Bcl11a,Nrxn3,0.000524914,Predicted,Guan-Troyanskaya-2008 MouseNET
+Bcl11a,Nfia,0.000656203,Predicted,Guan-Troyanskaya-2008 MouseNET
+Runx1t1,Nrxn3,0.000770973,Predicted,Guan-Troyanskaya-2008 MouseNET
+Runx1t1,Nfia,0.000361033,Predicted,Guan-Troyanskaya-2008 MouseNET
+Runx1t1,Tenm4,0.001178498,Predicted,Guan-Troyanskaya-2008 MouseNET
+Runx1t1,Kirrel3,0.00051891,Predicted,Guan-Troyanskaya-2008 MouseNET
+Runx1t1,Bcl11a,0.00048605,Predicted,Guan-Troyanskaya-2008 MouseNET
+Phactr1,Nrxn3,0.000608957,Predicted,Guan-Troyanskaya-2008 MouseNET
+Phactr1,Kirrel3,0.001360423,Predicted,Guan-Troyanskaya-2008 MouseNET
+Phactr1,Runx1t1,0.000288714,Predicted,Guan-Troyanskaya-2008 MouseNET
+Cntnap2,Nrxn3,0.001900012,Predicted,Guan-Troyanskaya-2008 MouseNET
+Cntnap2,Kirrel3,0.001405397,Predicted,Guan-Troyanskaya-2008 MouseNET
+Cntnap2,Runx1t1,0.000538362,Predicted,Guan-Troyanskaya-2008 MouseNET
+Cntnap2,Phactr1,0.000809168,Predicted,Guan-Troyanskaya-2008 MouseNET
+Rfx3,Nrxn3,0.000707225,Predicted,Guan-Troyanskaya-2008 MouseNET
+Rfx3,Nfia,0.000529103,Predicted,Guan-Troyanskaya-2008 MouseNET
+Rfx3,Runx1t1,0.000702176,Predicted,Guan-Troyanskaya-2008 MouseNET
+Kcnn2,Nfia,0.001083547,Predicted,Guan-Troyanskaya-2008 MouseNET
+Zfpm2,Nrxn3,0.000465921,Predicted,Guan-Troyanskaya-2008 MouseNET
+Zfpm2,Bcl11a,0.000571146,Predicted,Guan-Troyanskaya-2008 MouseNET
+Zfpm2,Runx1t1,0.000389323,Predicted,Guan-Troyanskaya-2008 MouseNET
+Zfpm2,Rfx3,0.000849802,Predicted,Guan-Troyanskaya-2008 MouseNET
+Hs6st3,Nrxn3,0.001627891,Predicted,Guan-Troyanskaya-2008 MouseNET
+Hs6st3,Kirrel3,0.002661499,Predicted,Guan-Troyanskaya-2008 MouseNET
+Hs6st3,Phactr1,0.001246921,Predicted,Guan-Troyanskaya-2008 MouseNET
+Hs6st3,Cntnap2,0.002387638,Predicted,Guan-Troyanskaya-2008 MouseNET
+Slc8a1,Nrxn3,0.000766257,Predicted,Guan-Troyanskaya-2008 MouseNET
+Slc8a1,Tenm4,0.002740618,Predicted,Guan-Troyanskaya-2008 MouseNET
+Slc8a1,Runx1t1,0.000562668,Predicted,Guan-Troyanskaya-2008 MouseNET
+Slc8a1,Rfx3,0.00095113,Predicted,Guan-Troyanskaya-2008 MouseNET
+Slc8a1,Zfpm2,0.000985856,Predicted,Guan-Troyanskaya-2008 MouseNET
+Dmd,Nrxn3,0.00060487,Predicted,Guan-Troyanskaya-2008 MouseNET
+Dmd,Nfia,0.000468221,Predicted,Guan-Troyanskaya-2008 MouseNET
+Dmd,Runx1t1,0.000464178,Predicted,Guan-Troyanskaya-2008 MouseNET
+Dmd,Kcnn2,0.00152685,Predicted,Guan-Troyanskaya-2008 MouseNET
+Dmd,Zfpm2,0.000644696,Predicted,Guan-Troyanskaya-2008 MouseNET
+Dmd,Slc8a1,0.001644467,Predicted,Guan-Troyanskaya-2008 MouseNET
+Erc2,Nrxn3,0.001153819,Predicted,Guan-Troyanskaya-2008 MouseNET
+Erc2,Ppfia2,0.025873752,Predicted,Guan-Troyanskaya-2008 MouseNET
+Erc2,Kirrel3,0.003090566,Predicted,Guan-Troyanskaya-2008 MouseNET
+Erc2,Runx1t1,0.000433528,Predicted,Guan-Troyanskaya-2008 MouseNET
+Erc2,Phactr1,0.001659629,Predicted,Guan-Troyanskaya-2008 MouseNET
+Erc2,Cntnap2,0.000952976,Predicted,Guan-Troyanskaya-2008 MouseNET
+Erc2,Hs6st3,0.002171801,Predicted,Guan-Troyanskaya-2008 MouseNET
+Ppp2r2b,Nrxn3,0.001447591,Predicted,Guan-Troyanskaya-2008 MouseNET
+Ppp2r2b,Phactr1,0.001379053,Predicted,Guan-Troyanskaya-2008 MouseNET
+Ext1,Nfia,0.000886767,Predicted,Guan-Troyanskaya-2008 MouseNET
+Ext1,Tenm4,0.002654973,Predicted,Guan-Troyanskaya-2008 MouseNET
+Ext1,Kcnn2,0.002069876,Predicted,Guan-Troyanskaya-2008 MouseNET
+Ext1,Slc8a1,0.001196399,Predicted,Guan-Troyanskaya-2008 MouseNET
+Ext1,Dmd,0.000686719,Predicted,Guan-Troyanskaya-2008 MouseNET
+Ntm,Nrxn3,0.001708951,Predicted,Guan-Troyanskaya-2008 MouseNET
+Ntm,Kirrel3,0.002902225,Predicted,Guan-Troyanskaya-2008 MouseNET
+Ntm,Runx1t1,0.000668467,Predicted,Guan-Troyanskaya-2008 MouseNET
+Ntm,Phactr1,0.001332052,Predicted,Guan-Troyanskaya-2008 MouseNET
+Ntm,Cntnap2,0.001292533,Predicted,Guan-Troyanskaya-2008 MouseNET
+Ntm,Hs6st3,0.00206574,Predicted,Guan-Troyanskaya-2008 MouseNET
+Ntm,Erc2,0.001842849,Predicted,Guan-Troyanskaya-2008 MouseNET
+Ntm,Ppp2r2b,0.001760033,Predicted,Guan-Troyanskaya-2008 MouseNET
+Prox1,Nrxn3,0.000369059,Predicted,Guan-Troyanskaya-2008 MouseNET
+Prox1,Nfia,0.000477852,Predicted,Guan-Troyanskaya-2008 MouseNET
+Prox1,Bcl11a,0.000453931,Predicted,Guan-Troyanskaya-2008 MouseNET
+Prox1,Runx1t1,0.000394679,Predicted,Guan-Troyanskaya-2008 MouseNET
+Prox1,Phactr1,0.000251454,Predicted,Guan-Troyanskaya-2008 MouseNET
+Prox1,Rfx3,0.000493704,Predicted,Guan-Troyanskaya-2008 MouseNET
+Prox1,Kcnn2,0.000848973,Predicted,Guan-Troyanskaya-2008 MouseNET
+Prox1,Zfpm2,0.000628408,Predicted,Guan-Troyanskaya-2008 MouseNET
+Prox1,Slc8a1,0.001289577,Predicted,Guan-Troyanskaya-2008 MouseNET
+Prox1,Dmd,0.000549029,Predicted,Guan-Troyanskaya-2008 MouseNET
+Prox1,Ext1,0.000666517,Predicted,Guan-Troyanskaya-2008 MouseNET
+Cadps,Nrxn3,0.001717108,Predicted,Guan-Troyanskaya-2008 MouseNET
+Cadps,Nfia,0.00035948,Predicted,Guan-Troyanskaya-2008 MouseNET
+Cadps,Kirrel3,0.001336089,Predicted,Guan-Troyanskaya-2008 MouseNET
+Cadps,Bcl11a,0.000421097,Predicted,Guan-Troyanskaya-2008 MouseNET
+Cadps,Runx1t1,0.000757102,Predicted,Guan-Troyanskaya-2008 MouseNET
+Cadps,Phactr1,0.000728855,Predicted,Guan-Troyanskaya-2008 MouseNET
+Cadps,Cntnap2,0.000624446,Predicted,Guan-Troyanskaya-2008 MouseNET
+Cadps,Kcnn2,0.001243162,Predicted,Guan-Troyanskaya-2008 MouseNET
+Cadps,Zfpm2,0.000574835,Predicted,Guan-Troyanskaya-2008 MouseNET
+Cadps,Hs6st3,0.000988676,Predicted,Guan-Troyanskaya-2008 MouseNET
+Cadps,Slc8a1,0.000736176,Predicted,Guan-Troyanskaya-2008 MouseNET
+Cadps,Dmd,0.002328204,Predicted,Guan-Troyanskaya-2008 MouseNET
+Cadps,Erc2,0.00125683,Predicted,Guan-Troyanskaya-2008 MouseNET
+Cadps,Ntm,0.001211452,Predicted,Guan-Troyanskaya-2008 MouseNET
+Cadps,Prox1,0.000617392,Predicted,Guan-Troyanskaya-2008 MouseNET
+Fam103a1,Khdrbs3,0.23109262,Predicted,Guan-Troyanskaya-2008 MouseNET
+Amer2,Nrxn3,0.001752368,Predicted,Guan-Troyanskaya-2008 MouseNET
+Amer2,Kirrel3,0.0016415,Predicted,Guan-Troyanskaya-2008 MouseNET
+Amer2,Runx1t1,0.000725824,Predicted,Guan-Troyanskaya-2008 MouseNET
+Amer2,Phactr1,0.001672133,Predicted,Guan-Troyanskaya-2008 MouseNET
+Amer2,Cntnap2,0.001734583,Predicted,Guan-Troyanskaya-2008 MouseNET
+Amer2,Hs6st3,0.002809689,Predicted,Guan-Troyanskaya-2008 MouseNET
+Amer2,Ppp2r2b,0.003672943,Predicted,Guan-Troyanskaya-2008 MouseNET
+Amer2,Ntm,0.002489295,Predicted,Guan-Troyanskaya-2008 MouseNET
+Amer2,Cadps,0.001272091,Predicted,Guan-Troyanskaya-2008 MouseNET
+Cnnm3,Khdrbs3,0.2318648,Predicted,Guan-Troyanskaya-2008 MouseNET
+Ptprf,Ppfia2,0.246826,Predicted,Guan-Troyanskaya-2008 MouseNET
+Elavl3,Nrxn3,0.002128161,Predicted,Guan-Troyanskaya-2008 MouseNET
+Elavl3,Kirrel3,0.002006898,Predicted,Guan-Troyanskaya-2008 MouseNET
+Elavl3,Runx1t1,0.000617387,Predicted,Guan-Troyanskaya-2008 MouseNET
+Elavl3,Phactr1,0.001582941,Predicted,Guan-Troyanskaya-2008 MouseNET
+Elavl3,Cntnap2,0.001042965,Predicted,Guan-Troyanskaya-2008 MouseNET
+Elavl3,Hs6st3,0.001500643,Predicted,Guan-Troyanskaya-2008 MouseNET
+Elavl3,Erc2,0.001986346,Predicted,Guan-Troyanskaya-2008 MouseNET
+Elavl3,Ppp2r2b,0.002107568,Predicted,Guan-Troyanskaya-2008 MouseNET
+Elavl3,Ntm,0.00139529,Predicted,Guan-Troyanskaya-2008 MouseNET
+Elavl3,Cadps,0.001327542,Predicted,Guan-Troyanskaya-2008 MouseNET
+Elavl3,Amer2,0.002452664,Predicted,Guan-Troyanskaya-2008 MouseNET
+Hdac8,Runx1t1,0.13668652,Predicted,Guan-Troyanskaya-2008 MouseNET
+Pclo,Nrxn3,0.001324721,Predicted,Guan-Troyanskaya-2008 MouseNET
+Pclo,Kirrel3,0.001460531,Predicted,Guan-Troyanskaya-2008 MouseNET
+Pclo,Runx1t1,0.000484224,Predicted,Guan-Troyanskaya-2008 MouseNET
+Pclo,Phactr1,0.00090121,Predicted,Guan-Troyanskaya-2008 MouseNET
+Pclo,Cntnap2,0.001996475,Predicted,Guan-Troyanskaya-2008 MouseNET
+Pclo,Hs6st3,0.002576376,Predicted,Guan-Troyanskaya-2008 MouseNET
+Pclo,Erc2,0.001444545,Predicted,Guan-Troyanskaya-2008 MouseNET
+Pclo,Ntm,0.001847864,Predicted,Guan-Troyanskaya-2008 MouseNET
+Pclo,Cadps,0.00062976,Predicted,Guan-Troyanskaya-2008 MouseNET
+Pclo,Amer2,0.001572608,Predicted,Guan-Troyanskaya-2008 MouseNET
+Pclo,Elavl3,0.001262584,Predicted,Guan-Troyanskaya-2008 MouseNET
+Phyhipl,Nrxn3,0.000805327,Predicted,Guan-Troyanskaya-2008 MouseNET
+Phyhipl,Kirrel3,0.001738748,Predicted,Guan-Troyanskaya-2008 MouseNET
+Phyhipl,Runx1t1,0.000418128,Predicted,Guan-Troyanskaya-2008 MouseNET
+Phyhipl,Phactr1,0.002852686,Predicted,Guan-Troyanskaya-2008 MouseNET
+Phyhipl,Cntnap2,0.000878797,Predicted,Guan-Troyanskaya-2008 MouseNET
+Phyhipl,Hs6st3,0.001083397,Predicted,Guan-Troyanskaya-2008 MouseNET
+Phyhipl,Erc2,0.001951773,Predicted,Guan-Troyanskaya-2008 MouseNET
+Phyhipl,Ppp2r2b,0.001980569,Predicted,Guan-Troyanskaya-2008 MouseNET
+Phyhipl,Ntm,0.001007456,Predicted,Guan-Troyanskaya-2008 MouseNET
+Phyhipl,Cadps,0.001075591,Predicted,Guan-Troyanskaya-2008 MouseNET
+Phyhipl,Amer2,0.002655586,Predicted,Guan-Troyanskaya-2008 MouseNET
+Phyhipl,Elavl3,0.001730101,Predicted,Guan-Troyanskaya-2008 MouseNET
+Phyhipl,Pclo,0.001042874,Predicted,Guan-Troyanskaya-2008 MouseNET
+Cldn3,Khdrbs3,0.24372698,Predicted,Guan-Troyanskaya-2008 MouseNET
+Rgs8,Nrxn3,0.002585741,Predicted,Guan-Troyanskaya-2008 MouseNET
+Rgs8,Kirrel3,0.002803116,Predicted,Guan-Troyanskaya-2008 MouseNET
+Rgs8,Runx1t1,0.000997778,Predicted,Guan-Troyanskaya-2008 MouseNET
+Rgs8,Ntm,0.002261801,Predicted,Guan-Troyanskaya-2008 MouseNET
+Rgs8,Cadps,0.001709804,Predicted,Guan-Troyanskaya-2008 MouseNET
+Rgs8,Amer2,0.00427103,Predicted,Guan-Troyanskaya-2008 MouseNET
+Rgs8,Elavl3,0.004604922,Predicted,Guan-Troyanskaya-2008 MouseNET
+Rgs8,Pclo,0.00253389,Predicted,Guan-Troyanskaya-2008 MouseNET
+Trap1,Ext1,0.11500671,Predicted,Guan-Troyanskaya-2008 MouseNET
+Psmf1,Khdrbs3,0.12000686,Predicted,Guan-Troyanskaya-2008 MouseNET
+Lsamp,Nrxn3,0.001832249,Predicted,Guan-Troyanskaya-2008 MouseNET
+Lsamp,Kirrel3,0.002681148,Predicted,Guan-Troyanskaya-2008 MouseNET
+Lsamp,Runx1t1,0.000557536,Predicted,Guan-Troyanskaya-2008 MouseNET
+Lsamp,Phactr1,0.001021511,Predicted,Guan-Troyanskaya-2008 MouseNET
+Lsamp,Cntnap2,0.001862728,Predicted,Guan-Troyanskaya-2008 MouseNET
+Lsamp,Hs6st3,0.003784655,Predicted,Guan-Troyanskaya-2008 MouseNET
+Lsamp,Erc2,0.001177643,Predicted,Guan-Troyanskaya-2008 MouseNET
+Lsamp,Ppp2r2b,0.002141162,Predicted,Guan-Troyanskaya-2008 MouseNET
+Lsamp,Ntm,0.002765662,Predicted,Guan-Troyanskaya-2008 MouseNET
+Lsamp,Cadps,0.001014391,Predicted,Guan-Troyanskaya-2008 MouseNET
+Lsamp,Amer2,0.002370328,Predicted,Guan-Troyanskaya-2008 MouseNET
+Lsamp,Elavl3,0.002391221,Predicted,Guan-Troyanskaya-2008 MouseNET
+Lsamp,Pclo,0.001729747,Predicted,Guan-Troyanskaya-2008 MouseNET
+Lsamp,Phyhipl,0.001193923,Predicted,Guan-Troyanskaya-2008 MouseNET
+Lsamp,Rgs8,0.004239278,Predicted,Guan-Troyanskaya-2008 MouseNET
+Cntn6,Nrxn3,0.001546077,Predicted,Guan-Troyanskaya-2008 MouseNET
+Cntn6,Kirrel3,0.002196854,Predicted,Guan-Troyanskaya-2008 MouseNET
+Cntn6,Runx1t1,0.000902182,Predicted,Guan-Troyanskaya-2008 MouseNET
+Cntn6,Phactr1,0.001447047,Predicted,Guan-Troyanskaya-2008 MouseNET
+Cntn6,Cntnap2,0.001757355,Predicted,Guan-Troyanskaya-2008 MouseNET
+Cntn6,Hs6st3,0.001839579,Predicted,Guan-Troyanskaya-2008 MouseNET
+Cntn6,Erc2,0.001632097,Predicted,Guan-Troyanskaya-2008 MouseNET
+Cntn6,Ppp2r2b,0.002696035,Predicted,Guan-Troyanskaya-2008 MouseNET
+Cntn6,Ntm,0.002772502,Predicted,Guan-Troyanskaya-2008 MouseNET
+Cntn6,Cadps,0.001105353,Predicted,Guan-Troyanskaya-2008 MouseNET
+Cntn6,Elavl3,0.001363721,Predicted,Guan-Troyanskaya-2008 MouseNET
+Cntn6,Pclo,0.001672377,Predicted,Guan-Troyanskaya-2008 MouseNET
+Cntn6,Phyhipl,0.001783574,Predicted,Guan-Troyanskaya-2008 MouseNET
+Cntn6,Rgs8,0.005655764,Predicted,Guan-Troyanskaya-2008 MouseNET
+Cntn6,Lsamp,0.002616259,Predicted,Guan-Troyanskaya-2008 MouseNET
+Sv2b,Nrxn3,0.001385709,Predicted,Guan-Troyanskaya-2008 MouseNET
+Sv2b,Nfia,0.000862311,Predicted,Guan-Troyanskaya-2008 MouseNET
+Sv2b,Kirrel3,0.00066222,Predicted,Guan-Troyanskaya-2008 MouseNET
+Sv2b,Runx1t1,0.000597971,Predicted,Guan-Troyanskaya-2008 MouseNET
+Sv2b,Phactr1,0.000729589,Predicted,Guan-Troyanskaya-2008 MouseNET
+Sv2b,Cntnap2,0.00164687,Predicted,Guan-Troyanskaya-2008 MouseNET
+Sv2b,Rfx3,0.000485233,Predicted,Guan-Troyanskaya-2008 MouseNET
+Sv2b,Hs6st3,0.00122199,Predicted,Guan-Troyanskaya-2008 MouseNET
+Sv2b,Dmd,0.00066811,Predicted,Guan-Troyanskaya-2008 MouseNET
+Sv2b,Erc2,0.000845685,Predicted,Guan-Troyanskaya-2008 MouseNET
+Sv2b,Ppp2r2b,0.001255576,Predicted,Guan-Troyanskaya-2008 MouseNET
+Sv2b,Ext1,0.000791203,Predicted,Guan-Troyanskaya-2008 MouseNET
+Sv2b,Ntm,0.000622665,Predicted,Guan-Troyanskaya-2008 MouseNET
+Sv2b,Prox1,0.000415898,Predicted,Guan-Troyanskaya-2008 MouseNET
+Sv2b,Cadps,0.000901959,Predicted,Guan-Troyanskaya-2008 MouseNET
+Sv2b,Elavl3,0.000860231,Predicted,Guan-Troyanskaya-2008 MouseNET
+Sv2b,Pclo,0.000971811,Predicted,Guan-Troyanskaya-2008 MouseNET
+Sv2b,Phyhipl,0.000782712,Predicted,Guan-Troyanskaya-2008 MouseNET
+Sv2b,Rgs8,0.001650126,Predicted,Guan-Troyanskaya-2008 MouseNET
+Sv2b,Lsamp,0.000943054,Predicted,Guan-Troyanskaya-2008 MouseNET
+Sv2b,Cntn6,0.00119062,Predicted,Guan-Troyanskaya-2008 MouseNET
+Il1rapl1,Cadps,0.003152192,Predicted,Guan-Troyanskaya-2008 MouseNET
+Phactr3,Nrxn3,0.000902711,Predicted,Guan-Troyanskaya-2008 MouseNET
+Phactr3,Kirrel3,0.001884141,Predicted,Guan-Troyanskaya-2008 MouseNET
+Phactr3,Runx1t1,0.000285029,Predicted,Guan-Troyanskaya-2008 MouseNET
+Phactr3,Phactr1,0.001484385,Predicted,Guan-Troyanskaya-2008 MouseNET
+Phactr3,Cntnap2,0.001082915,Predicted,Guan-Troyanskaya-2008 MouseNET
+Phactr3,Erc2,0.001427317,Predicted,Guan-Troyanskaya-2008 MouseNET
+Phactr3,Ntm,0.001284393,Predicted,Guan-Troyanskaya-2008 MouseNET
+Phactr3,Cadps,0.000659572,Predicted,Guan-Troyanskaya-2008 MouseNET
+Phactr3,Amer2,0.001425612,Predicted,Guan-Troyanskaya-2008 MouseNET
+Phactr3,Elavl3,0.000932132,Predicted,Guan-Troyanskaya-2008 MouseNET
+Phactr3,Pclo,0.001417477,Predicted,Guan-Troyanskaya-2008 MouseNET
+Phactr3,Phyhipl,0.001890729,Predicted,Guan-Troyanskaya-2008 MouseNET
+Phactr3,Lsamp,0.001144164,Predicted,Guan-Troyanskaya-2008 MouseNET
+Phactr3,Cntn6,0.002131039,Predicted,Guan-Troyanskaya-2008 MouseNET
+Phactr3,Sv2b,0.000550845,Predicted,Guan-Troyanskaya-2008 MouseNET
+Nphs2,Nfia,0.001080494,Predicted,Guan-Troyanskaya-2008 MouseNET
+Nphs2,Kirrel3,0.002346076,Predicted,Guan-Troyanskaya-2008 MouseNET
+Nphs2,Runx1t1,0.000566929,Predicted,Guan-Troyanskaya-2008 MouseNET
+Nphs2,Rfx3,0.000551194,Predicted,Guan-Troyanskaya-2008 MouseNET
+Nphs2,Prox1,0.000483444,Predicted,Guan-Troyanskaya-2008 MouseNET
+Nphs2,Sv2b,0.000494966,Predicted,Guan-Troyanskaya-2008 MouseNET
+Zfpm2,Bcl11a,0.013614457,Predicted,Conservation profile-Inparanoid
+Ext1,Slc8a1,0.011734778,Predicted,Conservation profile-Inparanoid
+Cadps,Phactr1,0.023434432,Predicted,Conservation profile-Inparanoid
+Ptprf,Kcnn2,0.017897686,Predicted,Conservation profile-Inparanoid
+Phactr3,Phactr1,0.020492906,Predicted,Conservation profile-Inparanoid
+Phactr3,Cadps,0.020492906,Predicted,Conservation profile-Inparanoid
+Tenm4,Nrxn3,0.006233424,Predicted,Kim-Marcotte-2008
+Bcl11a,Zbtb20,0.001785839,Predicted,Kim-Marcotte-2008
+Cntnap2,Nrxn3,0.00670731,Predicted,Kim-Marcotte-2008
+Zfpm2,Zbtb20,0.001747141,Predicted,Kim-Marcotte-2008
+Zfpm2,Bcl11a,0.00251929,Predicted,Kim-Marcotte-2008
+Erc2,Ppfia2,0.069707006,Predicted,Kim-Marcotte-2008
+Ntm,Kirrel3,0.004788185,Predicted,Kim-Marcotte-2008
+Fam103a1,Khdrbs3,0.25545973,Predicted,Kim-Marcotte-2008
+Cnnm3,Khdrbs3,0.032146752,Predicted,Kim-Marcotte-2008
+Ptprf,Kirrel3,0.003476126,Predicted,Kim-Marcotte-2008
+Ptprf,Ntm,0.004458958,Predicted,Kim-Marcotte-2008
+Elavl3,Elavl2,0.007324917,Predicted,Kim-Marcotte-2008
+Pclo,Cadps,0.0033309,Predicted,Kim-Marcotte-2008
+Phyhipl,Ptprf,0.005283676,Predicted,Kim-Marcotte-2008
+Trap1,Ext1,0.09441689,Predicted,Kim-Marcotte-2008
+Mdga2,Kirrel3,0.003923753,Predicted,Kim-Marcotte-2008
+Mdga2,Ntm,0.005119664,Predicted,Kim-Marcotte-2008
+Mdga2,Ptprf,0.004016354,Predicted,Kim-Marcotte-2008
+Psmf1,Khdrbs3,0.23530312,Predicted,Kim-Marcotte-2008
+Lsamp,Kirrel3,0.004821012,Predicted,Kim-Marcotte-2008
+Lsamp,Ntm,0.005465904,Predicted,Kim-Marcotte-2008
+Lsamp,Ptprf,0.004427307,Predicted,Kim-Marcotte-2008
+Lsamp,Mdga2,0.00517202,Predicted,Kim-Marcotte-2008
+Cntn6,Kirrel3,0.003707702,Predicted,Kim-Marcotte-2008
+Cntn6,Ntm,0.00424995,Predicted,Kim-Marcotte-2008
+Cntn6,Ptprf,0.003379934,Predicted,Kim-Marcotte-2008
+Cntn6,Phyhipl,0.00540985,Predicted,Kim-Marcotte-2008
+Cntn6,Mdga2,0.003819367,Predicted,Kim-Marcotte-2008
+Cntn6,Lsamp,0.004160221,Predicted,Kim-Marcotte-2008
+Il1rapl1,Kirrel3,0.003436307,Predicted,Kim-Marcotte-2008
+Il1rapl1,Ntm,0.005861128,Predicted,Kim-Marcotte-2008
+Il1rapl1,Mdga2,0.004751009,Predicted,Kim-Marcotte-2008
+Il1rapl1,Lsamp,0.00584611,Predicted,Kim-Marcotte-2008
+Il1rapl1,Cntn6,0.004405411,Predicted,Kim-Marcotte-2008
+Phactr3,Phactr1,0.35493723,Predicted,Kim-Marcotte-2008
+Cadps,Dmd,0.13154802,Predicted,I2D-HPRD-Human2Mouse
+Elavl3,Elavl2,0.71209085,Predicted,I2D-HPRD-Human2Mouse
+Hdac8,Runx1t1,0.30318353,Predicted,I2D-HPRD-Human2Mouse
+Pclo,Erc2,0.48795655,Predicted,I2D-HPRD-Human2Mouse
+Trap1,Ext1,0.33987698,Predicted,I2D-HPRD-Human2Mouse
+Psmf1,Khdrbs3,0.07844867,Predicted,I2D-HPRD-Human2Mouse
+Nphs2,Kirrel3,0.6865766,Predicted,I2D-HPRD-Human2Mouse

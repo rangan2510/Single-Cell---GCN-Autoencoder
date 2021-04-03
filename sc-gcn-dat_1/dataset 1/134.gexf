@@ -1,0 +1,2310 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-02-21">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="cluster" type="long" />
+      <attribute id="1" title="group" type="long" />
+    </attributes>
+    <nodes>
+      <node id="SSTR2" label="SSTR2" />
+      <node id="PRICKLE2" label="PRICKLE2" />
+      <node id="RORA" label="RORA" />
+      <node id="RELT" label="RELT" />
+      <node id="NECTIN3" label="NECTIN3" />
+      <node id="MEF2C" label="MEF2C" />
+      <node id="EPHA7" label="EPHA7" />
+      <node id="GLRB" label="GLRB" />
+      <node id="CKB" label="CKB" />
+      <node id="PEX5L" label="PEX5L" />
+      <node id="CACNA1D" label="CACNA1D" />
+      <node id="NRP1" label="NRP1" />
+      <node id="HOXA9" label="HOXA9" />
+      <node id="SLC6A4" label="SLC6A4" />
+      <node id="EFNB3" label="EFNB3" />
+      <node id="CAMK1G" label="CAMK1G" />
+      <node id="BAIAP2" label="BAIAP2" />
+      <node id="PDE4B" label="PDE4B" />
+      <node id="SYT1" label="SYT1" />
+      <node id="GRIA1" label="GRIA1" />
+      <node id="MYLK2" label="MYLK2" />
+      <node id="ENPP2" label="ENPP2" />
+      <node id="HS6ST3" label="HS6ST3" />
+      <node id="NEGR1" label="NEGR1" />
+      <node id="AHCYL2" label="AHCYL2" />
+      <node id="MMP16" label="MMP16" />
+      <node id="MAML3" label="MAML3" />
+      <node id="ZFPM2" label="ZFPM2" />
+      <node id="NRXN1" label="NRXN1" />
+      <node id="SST" label="SST" />
+      <node id="ARHGAP5" label="ARHGAP5" />
+      <node id="AK5" label="AK5" />
+      <node id="APOE" label="APOE" />
+      <node id="RELN" label="RELN" />
+      <node id="SOX2" label="SOX2" />
+      <node id="AHCYL1" label="AHCYL1" />
+      <node id="RUNX2" label="RUNX2" />
+      <node id="DMD" label="DMD" />
+      <node id="GRIK4" label="GRIK4" />
+      <node id="SLC6A1" label="SLC6A1" />
+      <node id="MAF" label="MAF" />
+      <node id="PBX3" label="PBX3" />
+      <node id="CNTN2" label="CNTN2" />
+      <node id="CACNA1C" label="CACNA1C" />
+      <node id="GAD1" label="GAD1" />
+      <node id="TIAM1" label="TIAM1" />
+      <node id="PRKCA" label="PRKCA" />
+      <node id="CACNA2D2" label="CACNA2D2" />
+      <node id="KCNMA1" label="KCNMA1" />
+      <node id="BCL11B" label="BCL11B" />
+      <node id="TUBB4A" label="TUBB4A" />
+      <node id="DDX5" label="DDX5" />
+      <node id="GAD2" label="GAD2" />
+      <node id="DCC" label="DCC" />
+      <node id="CACNA1A" label="CACNA1A" />
+      <node id="FTL1" label="FTL1" />
+      <node id="SGCB" label="SGCB" />
+      <node id="GALNTL6" label="GALNTL6" />
+      <node id="AHCY" label="AHCY" />
+      <node id="SLC1A2" label="SLC1A2" />
+      <node id="EPHA6" label="EPHA6" />
+      <node id="ROBO1" label="ROBO1" />
+      <node id="GRIK1" label="GRIK1" />
+      <node id="ACAP2" label="ACAP2" />
+      <node id="CNOT8" label="CNOT8" />
+      <node id="RFX6" label="RFX6" />
+      <node id="GNAO1" label="GNAO1" />
+      <node id="GRM4" label="GRM4" />
+      <node id="SGCG" label="SGCG" />
+      <node id="DGKH" label="DGKH" />
+      <node id="SLC4A4" label="SLC4A4" />
+      <node id="RIMS1" label="RIMS1" />
+      <node id="ATP2A2" label="ATP2A2" />
+      <node id="RIMS2" label="RIMS2" />
+      <node id="GRIA4" label="GRIA4" />
+      <node id="ACVR2A" label="ACVR2A" />
+      <node id="ROBO2" label="ROBO2" />
+      <node id="AHR" label="AHR" />
+      <node id="ACLY" label="ACLY" />
+      <node id="CLU" label="CLU" />
+      <node id="NRG3" label="NRG3" />
+      <node id="UNC13C" label="UNC13C" />
+      <node id="DOCK4" label="DOCK4" />
+      <node id="GRM8" label="GRM8" />
+      <node id="PRICKLE1" label="PRICKLE1" />
+      <node id="DLG1" label="DLG1" />
+      <node id="RYR2" label="RYR2" />
+      <node id="CNOT7" label="CNOT7" />
+      <node id="ATP2B1" label="ATP2B1" />
+      <node id="GRIN2A" label="GRIN2A" />
+      <node id="PLAA" label="PLAA" />
+      <node id="ZFHX3" label="ZFHX3" />
+      <node id="VEGFA" label="VEGFA" />
+      <node id="ERBIN" label="ERBIN" />
+      <node id="CDK14" label="CDK14" />
+      <node id="KCNQ5" label="KCNQ5" />
+      <node id="ACSL3" label="ACSL3" />
+      <node id="CKM" label="CKM" />
+      <node id="ISL1" label="ISL1" />
+      <node id="NR4A2" label="NR4A2" />
+      <node id="GABRA4" label="GABRA4" />
+      <node id="IRF3" label="IRF3" />
+      <node id="SLIT1" label="SLIT1" />
+      <node id="NRXN3" label="NRXN3" />
+      <node id="NLGN1" label="NLGN1" />
+      <node id="FTH1" label="FTH1" />
+      <node id="CDKN1C" label="CDKN1C" />
+      <node id="ZEB2" label="ZEB2" />
+      <node id="NRXN2" label="NRXN2" />
+      <node id="SLC38A2" label="SLC38A2" />
+      <node id="IAPP" label="IAPP" />
+      <node id="PLK2" label="PLK2" />
+      <node id="NEFL" label="NEFL" />
+      <node id="RB1" label="RB1" />
+      <node id="CKMT1" label="CKMT1" />
+      <node id="ERBB4" label="ERBB4" />
+      <node id="NTNG1" label="NTNG1" />
+      <node id="SLC1A6" label="SLC1A6" />
+      <node id="SGCD" label="SGCD" />
+      <node id="ITPR3" label="ITPR3" />
+      <node id="SNCA" label="SNCA" />
+      <node id="BTG2" label="BTG2" />
+      <node id="MSI2" label="MSI2" />
+      <node id="EPHA4" label="EPHA4" />
+      <node id="GCG" label="GCG" />
+      <node id="DNM3" label="DNM3" />
+      <node id="CAR4" label="CAR4" />
+      <node id="RUNX1T1" label="RUNX1T1" />
+      <node id="NRG1" label="NRG1" />
+      <node id="RYR3" label="RYR3" />
+      <node id="ANK2" label="ANK2" />
+      <node id="DPP4" label="DPP4" />
+      <node id="CNTNAP2" label="CNTNAP2" />
+      <node id="GABRA1" label="GABRA1" />
+    </nodes>
+    <edges>
+      <edge source="SSTR2" target="PLK2" id="0" weight="0.022297028">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="PRICKLE2" target="DOCK4" id="1" weight="0.01805105">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="PRICKLE2" target="GRM4" id="2" weight="0.007466928">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="PRICKLE2" target="CDK14" id="3" weight="0.011061587">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="PRICKLE2" target="EPHA4" id="4" weight="0.016978748">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="PRICKLE2" target="AK5" id="5" weight="0.006739782">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="PRICKLE2" target="SYT1" id="6" weight="0.004504962">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="PRICKLE2" target="NECTIN3" id="7" weight="0.013512036">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="RORA" target="NRXN1" id="8" weight="0.00074055">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="RORA" target="SLC1A2" id="9" weight="0.000885204">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="RELT" target="BTG2" id="10" weight="0.009704252">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="MEF2C" target="MAF" id="11" weight="0.000583563">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="MEF2C" target="GRIA4" id="12" weight="0.004519213">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="MEF2C" target="CACNA2D2" id="13" weight="0.000415408">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="EPHA7" target="NTNG1" id="14" weight="0.011707464">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="EPHA7" target="MMP16" id="15" weight="0.028362105">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="EPHA7" target="RYR3" id="16" weight="0.028209295">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="EPHA7" target="SLIT1" id="17" weight="0.00196498">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="GLRB" target="EFNB3" id="18" weight="0.006846873">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="GLRB" target="DNM3" id="19" weight="0.003456434">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="GLRB" target="ANK2" id="20" weight="0.003069689">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="CKB" target="APOE" id="21" weight="0.000352105">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CKB" target="NRXN1" id="22" weight="0.001348385">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CKB" target="GNAO1" id="23" weight="0.008202815">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="CKB" target="SLC1A2" id="24" weight="0.001135831">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CKB" target="RORA" id="25" weight="0.011869821">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CKB" target="VEGFA" id="26" weight="0.000197274">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="NRP1" target="PRKCA" id="27" weight="0.000223706">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="NRP1" target="NECTIN3" id="28" weight="0.012234711">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="NRP1" target="CACNA1A" id="29" weight="0.000234329">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="NRP1" target="EPHA4" id="30" weight="0.000346401">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="HOXA9" target="PBX3" id="31" weight="0.20720963">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="SLC6A4" target="SLC1A2" id="32" weight="0.000717662">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="SLC6A4" target="RORA" id="33" weight="0.000502133">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="SLC6A4" target="APOE" id="34" weight="0.00052118">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="SLC6A4" target="VEGFA" id="35" weight="0.000533712">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="SLC6A4" target="CKB" id="36" weight="0.000335835">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="EFNB3" target="ANK2" id="37" weight="0.000939356">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="EFNB3" target="SST" id="38" weight="0.012214315">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="EFNB3" target="GAD2" id="39" weight="0.00090824">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="EFNB3" target="SLC6A1" id="40" weight="0.006635459">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="EFNB3" target="ROBO1" id="41" weight="0.000725658">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="EFNB3" target="GAD1" id="42" weight="0.006887479">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="EFNB3" target="RELN" id="43" weight="0.1984023">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="EFNB3" target="NRXN3" id="44" weight="0.001029531">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="EFNB3" target="CACNA2D2" id="45" weight="0.000596679">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CAMK1G" target="EPHA4" id="46" weight="0.000421169">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CAMK1G" target="DCC" id="47" weight="0.016916443">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="CAMK1G" target="NRXN3" id="48" weight="0.000657404">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CAMK1G" target="GRIK4" id="49" weight="0.001237181">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CAMK1G" target="PRKCA" id="50" weight="0.001956002">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CAMK1G" target="AK5" id="51" weight="0.001001319">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CAMK1G" target="CDK14" id="52" weight="0.002995308">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="BAIAP2" target="PLK2" id="53" weight="0.011575977">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="BAIAP2" target="GRIA1" id="54" weight="0.00727582">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="BAIAP2" target="SSTR2" id="55" weight="0.020483676">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="PDE4B" target="EFNB3" id="56" weight="0.023963504">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="PDE4B" target="ZEB2" id="57" weight="0.012055211">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="PDE4B" target="DNM3" id="58" weight="0.02246628">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="PDE4B" target="ANK2" id="59" weight="0.001581765">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="SYT1" target="NRXN3" id="60" weight="0.001576249">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="SYT1" target="CDK14" id="61" weight="0.001327875">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="SYT1" target="PRKCA" id="62" weight="0.002799421">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="SYT1" target="EPHA4" id="63" weight="0.000496219">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="SYT1" target="CACNA1A" id="64" weight="0.006465611">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="SYT1" target="NECTIN3" id="65" weight="0.013943963">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="SYT1" target="GABRA4" id="66" weight="0.002109204">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="SYT1" target="AK5" id="67" weight="0.001430498">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="SYT1" target="CAMK1G" id="68" weight="0.00054105">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="SYT1" target="RIMS1" id="69" weight="0.01569326">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="SYT1" target="GRIK4" id="70" weight="0.000647938">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="SYT1" target="DCC" id="71" weight="0.000487066">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="SYT1" target="NRP1" id="72" weight="0.000188196">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="GRIA1" target="RYR3" id="73" weight="0.012115515">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="GRIA1" target="EPHA6" id="74" weight="0.011929319">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="GRIA1" target="ATP2B1" id="75" weight="0.005805914">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="GRIA1" target="DMD" id="76" weight="0.007064686">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="GRIA1" target="GRIN2A" id="77" weight="0.023170847">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="GRIA1" target="HS6ST3" id="78" weight="0.001398747">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="GRIA1" target="CNTNAP2" id="79" weight="0.000964011">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="GRIA1" target="ROBO2" id="80" weight="0.000921812">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="MYLK2" target="MAF" id="81" weight="0.00772561">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="MYLK2" target="MEF2C" id="82" weight="0.467246">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="ENPP2" target="ANK2" id="83" weight="0.001769705">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="ENPP2" target="ZEB2" id="84" weight="0.006338856">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="NEGR1" target="TIAM1" id="85" weight="0.015405849">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="ZFPM2" target="MMP16" id="86" weight="0.01494716">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="ZFPM2" target="CACNA1D" id="87" weight="0.00082678">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="SST" target="GAD1" id="88" weight="0.006573835">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="ARHGAP5" target="SOX2" id="89" weight="0.012064163">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="ARHGAP5" target="ACSL3" id="90" weight="0.025025696">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="ARHGAP5" target="GNAO1" id="91" weight="0.007925031">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="AK5" target="GRIK4" id="92" weight="0.002248182">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="AK5" target="CACNA1A" id="93" weight="0.010455046">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="AK5" target="CDK14" id="94" weight="0.002183781">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="AK5" target="NRXN3" id="95" weight="0.000882267">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="AK5" target="KCNQ5" id="96" weight="0.02843618">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="APOE" target="SLC1A2" id="97" weight="0.000690186">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="APOE" target="SLC4A4" id="98" weight="0.01999728">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="APOE" target="NRXN1" id="99" weight="0.000192366">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="APOE" target="RORA" id="100" weight="0.000535892">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="RELN" target="CACNA2D2" id="101" weight="0.000724751">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="SOX2" target="SLC1A2" id="102" weight="0.012551486">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="SOX2" target="NRXN1" id="103" weight="0.007489878">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="AHCYL1" target="AHCYL2" id="104" weight="0.82545304">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="RUNX2" target="EPHA6" id="105" weight="0.008916158">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="RUNX2" target="HS6ST3" id="106" weight="0.018198632">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="RUNX2" target="BCL11B" id="107" weight="0.000510589">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="RUNX2" target="ROBO2" id="108" weight="0.000513804">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="DMD" target="EPHA6" id="109" weight="0.017977858">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="DMD" target="ROBO2" id="110" weight="0.000564538">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="DMD" target="RUNX2" id="111" weight="0.00064061">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="GRIK4" target="DOCK4" id="112" weight="0.004542528">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="SLC6A1" target="GAD1" id="113" weight="0.005110104">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="SLC6A1" target="GRIK1" id="114" weight="0.004454116">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="SLC6A1" target="RELN" id="115" weight="0.01457477">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="SLC6A1" target="NRXN3" id="116" weight="0.004275243">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="SLC6A1" target="CACNA2D2" id="117" weight="0.00103284">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="MAF" target="CACNA2D2" id="118" weight="0.000442079">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="MAF" target="RELN" id="119" weight="0.000667279">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="PBX3" target="ZFHX3" id="120" weight="0.011988536">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="CNTN2" target="TUBB4A" id="121" weight="0.006641991">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="CNTN2" target="DNM3" id="122" weight="0.001755102">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CNTN2" target="ANK2" id="123" weight="0.1134677">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CNTN2" target="GLRB" id="124" weight="0.002657277">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CNTN2" target="EFNB3" id="125" weight="0.00174667">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CACNA1C" target="PLK2" id="126" weight="0.006802681">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="CACNA1C" target="GRIA1" id="127" weight="0.006575576">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="CACNA1C" target="RYR3" id="128" weight="0.011847284">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CACNA1C" target="ATP2B1" id="129" weight="0.003273813">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CACNA1C" target="HS6ST3" id="130" weight="0.009724896">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CACNA1C" target="RUNX2" id="131" weight="0.000794006">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CACNA1C" target="ROBO2" id="132" weight="0.001507432">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CACNA1C" target="DMD" id="133" weight="0.005456724">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="GAD1" target="NRXN3" id="134" weight="0.010185964">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="GAD1" target="GRIK1" id="135" weight="0.00675165">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="GAD1" target="SYT1" id="136" weight="0.001752277">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="GAD1" target="AK5" id="137" weight="0.010032724">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="PRKCA" target="DCC" id="138" weight="0.000640342">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="PRKCA" target="RIMS1" id="139" weight="0.002076339">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="PRKCA" target="CDK14" id="140" weight="0.001941441">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CACNA2D2" target="NRXN3" id="141" weight="0.000934329">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="KCNMA1" target="NR4A2" id="142" weight="0.023006098">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="KCNMA1" target="ACVR2A" id="143" weight="0.01741002">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="KCNMA1" target="NTNG1" id="144" weight="0.010855447">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="BCL11B" target="RYR3" id="145" weight="0.014070367">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="TUBB4A" target="EFNB3" id="146" weight="0.005479766">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="TUBB4A" target="GLRB" id="147" weight="0.002806308">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="TUBB4A" target="FTH1" id="148" weight="0.007397119">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="TUBB4A" target="DNM3" id="149" weight="0.004355496">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="TUBB4A" target="ANK2" id="150" weight="0.001917739">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="DDX5" target="MSI2" id="151" weight="0.002267021">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="GAD2" target="GRIK1" id="152" weight="0.008428708">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="GAD2" target="GAD1" id="153" weight="0.125">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="GAD2" target="SLC6A1" id="154" weight="0.001652579">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="GAD2" target="GRIA4" id="155" weight="0.000544296">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="GAD2" target="ROBO1" id="156" weight="0.000471657">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="GAD2" target="CACNA2D2" id="157" weight="0.00050344">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="GAD2" target="NRXN3" id="158" weight="0.000825278">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="GAD2" target="RELN" id="159" weight="0.000532859">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="GAD2" target="MAF" id="160" weight="0.000331411">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="DCC" target="NRXN3" id="161" weight="0.001082103">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="DCC" target="RIMS1" id="162" weight="0.006213424">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CACNA1A" target="RIMS1" id="163" weight="0.000844138">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CACNA1A" target="NRXN3" id="164" weight="0.000550969">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CACNA1A" target="KCNQ5" id="165" weight="0.014169141">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="FTL1" target="FTH1" id="166" weight="0.16234946">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="SGCB" target="GAD2" id="167" weight="0.011959548">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="SGCB" target="ROBO1" id="168" weight="0.02051946">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="SGCB" target="MAF" id="169" weight="0.010384918">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="SGCB" target="SGCD" id="170" weight="0.33333334">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="AHCY" target="AHCYL2" id="171" weight="0.14933132">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="AHCY" target="AHCYL1" id="172" weight="0.14762856">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="SLC1A2" target="MSI2" id="173" weight="0.005526971">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="SLC1A2" target="NRXN1" id="174" weight="0.00081591">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="EPHA6" target="RYR3" id="175" weight="0.015378539">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="EPHA6" target="GALNTL6" id="176" weight="0.018395469">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="EPHA6" target="PEX5L" id="177" weight="0.010720996">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="EPHA6" target="HS6ST3" id="178" weight="0.005870041">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="EPHA6" target="ROBO2" id="179" weight="0.004061608">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="EPHA6" target="NTNG1" id="180" weight="0.019815268">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="EPHA6" target="EPHA7" id="181" weight="0.012083485">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="ROBO1" target="MAF" id="182" weight="0.000378759">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="ROBO1" target="CACNA2D2" id="183" weight="0.000424642">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="ROBO1" target="NRXN3" id="184" weight="0.000456486">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="ROBO1" target="RELN" id="185" weight="0.000703823">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="ROBO1" target="SLC6A1" id="186" weight="0.000803014">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="ROBO1" target="GRIA4" id="187" weight="0.000515171">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CNOT8" target="BTG2" id="188" weight="0.13367736">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="GNAO1" target="NRXN1" id="189" weight="0.002810196">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="GNAO1" target="SLC1A2" id="190" weight="0.017496323">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="GRM4" target="DOCK4" id="191" weight="0.011903018">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="GRM4" target="GRIK4" id="192" weight="0.006574496">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="GRM4" target="GABRA4" id="193" weight="0.006767292">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="GRM4" target="CACNA1A" id="194" weight="0.001735327">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="GRM4" target="KCNQ5" id="195" weight="0.015351574">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="GRM4" target="RIMS1" id="196" weight="0.006694875">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="GRM4" target="NRXN3" id="197" weight="0.002567195">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="GRM4" target="EPHA4" id="198" weight="0.00204011">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="GRM4" target="SYT1" id="199" weight="0.001460306">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="SGCG" target="SGCD" id="200" weight="0.33333334">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="SGCG" target="SGCB" id="201" weight="0.33333334">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="SGCG" target="KCNMA1" id="202" weight="0.011747619">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="ATP2A2" target="CACNA1C" id="203" weight="0.001034558">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="ATP2A2" target="PEX5L" id="204" weight="0.008983756">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="ATP2A2" target="ATP2B1" id="205" weight="0.030558946">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="ATP2A2" target="BCL11B" id="206" weight="0.00064134">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="ATP2A2" target="RUNX2" id="207" weight="0.000493053">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="RIMS2" target="NTNG1" id="208" weight="0.008712316">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="GRIA4" target="GRIK1" id="209" weight="0.026416">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="GRIA4" target="GAD1" id="210" weight="0.002936169">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="GRIA4" target="RELN" id="211" weight="0.010388463">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="GRIA4" target="MAF" id="212" weight="0.007260504">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="GRIA4" target="CACNA2D2" id="213" weight="0.000787262">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="GRIA4" target="SLC6A1" id="214" weight="0.004202464">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="GRIA4" target="NRXN3" id="215" weight="0.002278629">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="ROBO2" target="ATP2B1" id="216" weight="0.012679312">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="ROBO2" target="ZEB2" id="217" weight="0.002510522">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="AHR" target="GAD2" id="218" weight="0.000435772">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="AHR" target="MAF" id="219" weight="0.00029402">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="AHR" target="CACNA2D2" id="220" weight="0.000436048">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="AHR" target="ROBO1" id="221" weight="0.000244474">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="AHR" target="ACLY" id="222" weight="0.000937714">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="ACLY" target="MEF2C" id="223" weight="0.11401843">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CLU" target="ENPP2" id="224" weight="0.001304031">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CLU" target="PDE4B" id="225" weight="0.0018138">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="NRG3" target="SST" id="226" weight="0.012693923">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="NRG3" target="SGCD" id="227" weight="0.019136544">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="NRG3" target="GAD2" id="228" weight="0.000335968">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="NRG3" target="ERBB4" id="229" weight="0.7857899">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="NRG3" target="NRXN3" id="230" weight="0.008652485">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="NRG3" target="GRIA4" id="231" weight="0.000599095">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="UNC13C" target="DNM3" id="232" weight="0.003558078">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="UNC13C" target="ENPP2" id="233" weight="0.014074845">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="UNC13C" target="GLRB" id="234" weight="0.004702278">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="UNC13C" target="CNTN2" id="235" weight="0.002565411">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="GRM8" target="NTNG1" id="236" weight="0.014088702">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="GRM8" target="DLG1" id="237" weight="0.007652112">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="GRM8" target="KCNMA1" id="238" weight="0.010458445">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="RYR2" target="ZFPM2" id="239" weight="0.012622681">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="RYR2" target="CACNA1D" id="240" weight="0.006097836">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CNOT7" target="RB1" id="241" weight="0.003675807">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CNOT7" target="MSI2" id="242" weight="0.005851282">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="CNOT7" target="DDX5" id="243" weight="0.001043962">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="CNOT7" target="BTG2" id="244" weight="0.115904">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CNOT7" target="CNOT8" id="245" weight="0.054094523">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="GRIN2A" target="EPHA6" id="246" weight="0.007603714">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="GRIN2A" target="RYR3" id="247" weight="0.017949877">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="GRIN2A" target="ROBO2" id="248" weight="0.001496605">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="GRIN2A" target="DMD" id="249" weight="0.001148849">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="PLAA" target="RUNX2" id="250" weight="0.18924771">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="VEGFA" target="SLC4A4" id="251" weight="0.01696691">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="VEGFA" target="ARHGAP5" id="252" weight="0.004190755">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="VEGFA" target="NRXN1" id="253" weight="0.000178698">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="VEGFA" target="SLC1A2" id="254" weight="0.000387291">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="VEGFA" target="RORA" id="255" weight="0.000412913">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="VEGFA" target="APOE" id="256" weight="0.000386941">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CDK14" target="RIMS1" id="257" weight="0.002020331">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CDK14" target="NRXN3" id="258" weight="0.001010422">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CKM" target="CKB" id="259" weight="0.008859939">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="ISL1" target="BCL11B" id="260" weight="0.05289444">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="ISL1" target="RUNX2" id="261" weight="0.001656413">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="NR4A2" target="ZFHX3" id="262" weight="0.014327695">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="GABRA4" target="GRIK4" id="263" weight="0.01257622">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="GABRA4" target="CAMK1G" id="264" weight="0.011761788">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="GABRA4" target="AK5" id="265" weight="0.001616431">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="GABRA4" target="DOCK4" id="266" weight="0.011170163">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="GABRA4" target="DCC" id="267" weight="0.011448831">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="GABRA4" target="EPHA4" id="268" weight="0.00120137">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="GABRA4" target="KCNQ5" id="269" weight="0.015265947">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="GABRA4" target="NRXN3" id="270" weight="0.00132873">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="IRF3" target="CACNA2D2" id="271" weight="0.000953596">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="SLIT1" target="SLC6A1" id="272" weight="0.001938365">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="SLIT1" target="ROBO1" id="273" weight="0.002392892">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="SLIT1" target="NRXN3" id="274" weight="0.009472615">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="SLIT1" target="CACNA2D2" id="275" weight="0.000667488">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="SLIT1" target="RELN" id="276" weight="0.012993882">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="SLIT1" target="GRIA4" id="277" weight="0.001562577">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="SLIT1" target="GAD2" id="278" weight="0.000565722">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="SLIT1" target="NRG3" id="279" weight="0.004732335">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="NRXN3" target="CKB" id="280" weight="0.001530708">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="NRXN3" target="NRXN2" id="281" weight="0.008429159">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="NRXN3" target="NRXN1" id="282" weight="0.002716336">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="NRXN3" target="SLC1A2" id="283" weight="0.000650855">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="NRXN3" target="APOE" id="284" weight="0.000224975">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="NRXN3" target="NLGN1" id="285" weight="0.002012623">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="NRXN3" target="RIMS1" id="286" weight="0.002404077">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="NLGN1" target="NRXN1" id="287" weight="0.001672521">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="NLGN1" target="CKB" id="288" weight="0.001201946">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="FTH1" target="ZEB2" id="289" weight="0.020833334">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CDKN1C" target="HOXA9" id="290" weight="0.005069857">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CDKN1C" target="NR4A2" id="291" weight="0.20458138">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="ZEB2" target="ERBIN" id="292" weight="0.010855233">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="ZEB2" target="BCL11B" id="293" weight="0.002050414">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="NRXN2" target="CKB" id="294" weight="0.008013374">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="NRXN2" target="NRXN1" id="295" weight="0.009893356">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="PLK2" target="EPHA6" id="296" weight="0.013129532">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="PLK2" target="BCL11B" id="297" weight="0.000430695">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="PLK2" target="RUNX2" id="298" weight="0.00032005">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="PLK2" target="DMD" id="299" weight="0.000287997">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="NEFL" target="EFNB3" id="300" weight="0.011827228">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="NEFL" target="FTH1" id="301" weight="0.008747826">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="NEFL" target="GLRB" id="302" weight="0.003413068">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="NEFL" target="TUBB4A" id="303" weight="0.003506177">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="NEFL" target="ERBIN" id="304" weight="0.01089571">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="NEFL" target="ANK2" id="305" weight="0.001073555">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="NEFL" target="CNTN2" id="306" weight="0.000800037">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="NEFL" target="CLU" id="307" weight="0.00075985">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="RB1" target="CDKN1C" id="308" weight="0.001183166">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CKMT1" target="CKB" id="309" weight="0.001080129">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CKMT1" target="ARHGAP5" id="310" weight="0.01694538">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="CKMT1" target="CKM" id="311" weight="0.33266848">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CKMT1" target="SLC1A2" id="312" weight="0.001059193">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="ERBB4" target="MAF" id="313" weight="0.011799265">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="SLC1A6" target="RORA" id="314" weight="0.001603293">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="SLC1A6" target="ARHGAP5" id="315" weight="0.015097061">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="SLC1A6" target="CAR4" id="316" weight="0.01360596">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="SLC1A6" target="SLC4A4" id="317" weight="0.006377336">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="SLC1A6" target="SLC1A2" id="318" weight="0.18223324">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="SLC1A6" target="VEGFA" id="319" weight="0.000600783">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="SLC1A6" target="CKB" id="320" weight="0.000929037">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="SGCD" target="MEF2C" id="321" weight="0.02646758">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="SGCD" target="RUNX1T1" id="322" weight="0.010852455">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="ITPR3" target="RUNX2" id="323" weight="0.000508906">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="ITPR3" target="ATP2B1" id="324" weight="0.3647877">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="ITPR3" target="DMD" id="325" weight="0.000719401">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="ITPR3" target="RYR3" id="326" weight="0.057682566">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="ITPR3" target="CACNA1C" id="327" weight="0.009451461">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="BTG2" target="NR4A2" id="328" weight="0.017015584">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="EPHA4" target="CACNA1A" id="329" weight="0.000315618">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="EPHA4" target="DCC" id="330" weight="0.002808803">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="EPHA4" target="NRXN3" id="331" weight="0.000584154">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="EPHA4" target="NECTIN3" id="332" weight="0.00069522">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="GCG" target="ISL1" id="333" weight="0.008573665">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="GCG" target="ROBO2" id="334" weight="0.14381024">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="GCG" target="PLK2" id="335" weight="0.001618423">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CAR4" target="SLC4A4" id="336" weight="1.0">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CAR4" target="GNAO1" id="337" weight="0.010963973">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="CAR4" target="VEGFA" id="338" weight="0.008844807">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="CAR4" target="APOE" id="339" weight="0.010588065">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="NRG1" target="NTNG1" id="340" weight="0.018032823">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="RYR3" target="CACNA1D" id="341" weight="0.008823317">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="RYR3" target="RYR2" id="342" weight="0.40621915">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="ANK2" target="DNM3" id="343" weight="0.004845568">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="DPP4" target="SGCG" id="344" weight="0.01176062">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="CNTNAP2" target="RYR3" id="345" weight="0.023291465">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="CNTNAP2" target="HS6ST3" id="346" weight="0.002387638">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="GABRA1" target="NRXN3" id="347" weight="0.001374335">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="GABRA1" target="CDK14" id="348" weight="0.00194425">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="GABRA1" target="SYT1" id="349" weight="0.001098244">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="GABRA1" target="GAD1" id="350" weight="0.004862213">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="GABRA1" target="KCNQ5" id="351" weight="0.008002142">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="GABRA1" target="CACNA1A" id="352" weight="0.015286665">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="GABRA1" target="EPHA4" id="353" weight="0.013833254">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="GABRA1" target="RIMS1" id="354" weight="0.001783629">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="GABRA1" target="PRKCA" id="355" weight="0.010937096">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="GABRA1" target="CAMK1G" id="356" weight="0.006137153">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="GABRA1" target="GRIK4" id="357" weight="0.001802342">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="GABRA1" target="AK5" id="358" weight="0.001345623">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="GABRA1" target="GABRA4" id="359" weight="0.024390243">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
