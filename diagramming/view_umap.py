@@ -5,10 +5,13 @@ from umap import UMAP
 import plotly.express as px
 np.random.seed(0)
 
-#%%
-#path = "../sc-gcn-dat_3/GNN_clustered.csv"
-path = "../sc-gcn-dat_4/input_to_GNN.csv"
-# path = "../sc-gcn-dat_4/GNN_clustered.csv"
+#%% 
+# set input/output options here 
+# double-check paths to avoid fuckups
+dataset = 4
+out = "dat" + str(dataset)
+path = "../sc-gcn-dat_" + str(dataset) + "/GNN_clustered.csv"
+
 
 df_plot = pd.read_csv(path)
 df_plot['cluster'] = df_plot['cluster'].astype('str')
@@ -34,4 +37,7 @@ fig_3d.update_traces(marker_size=5)
 
 fig_2d.show()
 fig_3d.show()
+# %%
+fig_2d.write_image(out+"_2d.eps",engine="kaleido")
+fig_3d.write_image(out+"_3d.eps",engine="kaleido")
 # %%
