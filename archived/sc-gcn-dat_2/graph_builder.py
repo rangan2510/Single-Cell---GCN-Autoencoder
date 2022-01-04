@@ -1,0 +1,75 @@
+#%%
+import pandas as pd
+df_feat = pd.read_csv('feat-E4-E4.csv')
+# %%
+gene_set = list(set(list(df_feat.Term)))
+feat_set = list(df_feat.columns)
+
+# %%
+df_feat_cons_dat = []
+for g in gene_set:
+    vals = list(df_feat.loc[df_feat.Term==g].sum())[1:]
+    row = [g,*vals]
+    df_feat_cons_dat.append(row)
+
+df_feat_cons = pd.DataFrame(data=df_feat_cons_dat,columns=feat_set)
+print(df_feat_cons)
+    
+# %%
+df_feat_cons.to_csv('feat.csv')
+# %%
+# build networks
+net = None
+path_list = ["net" + str(x) + ".csv" for x in range(1,9)]
+cluster = 0
+for path in path_list:
+    _net = pd.read_csv(path)
+    cluster+=1
+    _net['cluster'] = cluster
+    net = pd.concat([net, _net])
+net['Gene 1'] = net['Gene 1'].str.upper()
+net['Gene 2'] = net['Gene 2'].str.upper()
+net.to_csv('net.csv', index=False)
+
+#%%
+ng_map = list(set(list(net['Network group'])))
+
+# %%
+# create a graph
+## create edge list
+import networkx as nx
+G = nx.DiGraph()
+
+for index, row in net.iterrows():
+    edge = (row['Gene 1'], row['Gene 2'])
+    G.add_edge(*edge, weight=row['Weight'], cluster=row['cluster'],  group=ng_map.index(row['Network group']))
+
+# %%
+import matplotlib.pyplot as plt 
+nx.draw(G,  node_size=5) 
+
+# %%
+sg_terms = df_feat_cons.Term
+# %%
+H = G.subgraph(sg_terms)
+nx.draw(H,  node_size=5) 
+
+# %%
+deg = dict(H.degree())
+# %%
+rem_nodes = []
+for k,v in deg.items():
+    if v == 0:
+        rem_nodes.append(k)
+
+# %%
+J = H.copy()
+for n in rem_nodes:
+    J.remove_node(n)
+nx.draw(J,  node_size=5) 
+
+nx.write_gexf(J, "dat2.gexf")
+
+df_nx = pd.DataFrame(data=list(J.nodes()),columns=['Term'])
+df_feat_ = pd.merge(df_feat_cons, df_nx, how='inner')
+df_feat_.to_csv('feat.csv')

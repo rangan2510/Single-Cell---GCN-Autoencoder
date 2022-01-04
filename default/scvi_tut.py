@@ -337,6 +337,4 @@ import pandas as pd
 t=adata.X.toarray()
 df = pd.DataFrame(data=t, index=adata.obs_names, columns=adata.raw.var_names)
 df['cluster'] = adata.obs['leiden_scVI']
-#%%
-df.to_csv('adata_raw_x.csv')
-# %%
+

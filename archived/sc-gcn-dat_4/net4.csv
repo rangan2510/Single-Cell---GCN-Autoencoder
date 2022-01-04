@@ -1,0 +1,448 @@
+﻿Gene 1,Gene 2,Weight,Network group,Network
+NXPH1,FAM19A1,0.014175899,Co-expression,Mallon-McKay-2013
+GRIK1,NXPH1,0.012912546,Co-expression,Mallon-McKay-2013
+ZNF536,FAM19A1,0.010050553,Co-expression,Mallon-McKay-2013
+ZNF536,NXPH1,0.004863374,Co-expression,Mallon-McKay-2013
+ZNF536,ADARB2,0.006617995,Co-expression,Mallon-McKay-2013
+ZNF536,SLC6A1,0.009507179,Co-expression,Mallon-McKay-2013
+NRXN3,ERC2,0.018293086,Co-expression,Mallon-McKay-2013
+KCNC1,NXPH1,0.013503516,Co-expression,Mallon-McKay-2013
+KCNC1,ZNF536,0.009590181,Co-expression,Mallon-McKay-2013
+GRIP1,ATP2B1,0.009170138,Co-expression,Mallon-McKay-2013
+GRIA2,ZNF536,0.009309306,Co-expression,Mallon-McKay-2013
+KCNC2,FAM19A1,0.010522012,Co-expression,Mallon-McKay-2013
+KCNC2,NXPH1,0.005148488,Co-expression,Mallon-McKay-2013
+KCNC2,GRIK1,0.009593576,Co-expression,Mallon-McKay-2013
+KCNC2,SLC6A1,0.009976512,Co-expression,Mallon-McKay-2013
+KCNC2,ZNF536,0.003583269,Co-expression,Mallon-McKay-2013
+KCNC2,KCNC1,0.010071845,Co-expression,Mallon-McKay-2013
+KCNC2,GRIA2,0.009810853,Co-expression,Mallon-McKay-2013
+CACNG2,KCNC2,0.006866471,Co-expression,Mallon-McKay-2013
+GRIA1,KCNC2,0.008172182,Co-expression,Mallon-McKay-2013
+GRIA1,GRIA3,0.026301395,Co-expression,Mallon-McKay-2013
+APLP1,NXPH1,0.004874061,Co-expression,Mallon-McKay-2013
+APLP1,ADARB2,0.007403201,Co-expression,Mallon-McKay-2013
+APLP1,GRIK1,0.009405078,Co-expression,Mallon-McKay-2013
+APLP1,ZNF536,0.003398911,Co-expression,Mallon-McKay-2013
+APLP1,ERC2,0.006942631,Co-expression,Mallon-McKay-2013
+APLP1,KCNC2,0.003598471,Co-expression,Mallon-McKay-2013
+APLP1,GRIA3,0.009953076,Co-expression,Mallon-McKay-2013
+APLP1,CACNG2,0.007257288,Co-expression,Mallon-McKay-2013
+APLP1,GRIA1,0.008166121,Co-expression,Mallon-McKay-2013
+GRIK2,CACNG2,0.020701367,Co-expression,Mallon-McKay-2013
+GRIK2,APLP1,0.008405197,Co-expression,Mallon-McKay-2013
+GAD1,GAD2,0.01907192,Co-expression,Rieger-Chu-2004
+GRIK1,NPAS3,0.015446724,Co-expression,Rieger-Chu-2004
+KCNC1,SLC6A1,0.021888217,Co-expression,Rieger-Chu-2004
+GRIA2,SLC6A1,0.025529208,Co-expression,Rieger-Chu-2004
+GRIA2,ZNF536,0.014473897,Co-expression,Rieger-Chu-2004
+APLP1,NLGN1,0.019919327,Co-expression,Rieger-Chu-2004
+NR2F2,VLDLR,0.015505945,Co-expression,Rieger-Chu-2004
+UNC5D,FAM19A1,0.006409891,Co-expression,Innocenti-Brown-2011
+GAD2,FAM19A1,0.008215764,Co-expression,Innocenti-Brown-2011
+GAD2,UNC5D,0.016318284,Co-expression,Innocenti-Brown-2011
+ZNF536,FAM19A1,0.004982192,Co-expression,Innocenti-Brown-2011
+GRIA4,FAM19A1,0.00550273,Co-expression,Innocenti-Brown-2011
+ERC2,FAM19A1,0.007210154,Co-expression,Innocenti-Brown-2011
+ERC2,UNC5D,0.015381495,Co-expression,Innocenti-Brown-2011
+DAB1,ELAVL2,0.00302677,Co-expression,Innocenti-Brown-2011
+GRIA2,ERC2,0.02269793,Co-expression,Innocenti-Brown-2011
+SOX18,NPAS3,0.011541628,Co-expression,Innocenti-Brown-2011
+KCNV2,DAB1,0.002535719,Co-expression,Innocenti-Brown-2011
+TRIP6,RHOC,0.016736157,Co-expression,Innocenti-Brown-2011
+GRIA4,ADARB2,0.03161919,Co-expression,Smirnov-Cheung-2009
+GRIP1,SLC6A1,0.024677532,Co-expression,Smirnov-Cheung-2009
+MEF2C,CELF2,0.015921762,Co-expression,Smirnov-Cheung-2009
+NLGN1,GRIA4,0.029977722,Co-expression,Smirnov-Cheung-2009
+GRIK2,DAB1,0.015968272,Co-expression,Smirnov-Cheung-2009
+GRIK1,FAM19A1,0.02180864,Co-expression,Roth-Zlotnik-2006
+ERC2,FAM19A1,0.008002438,Co-expression,Roth-Zlotnik-2006
+ERC2,UNC5D,0.006816689,Co-expression,Roth-Zlotnik-2006
+CELF2,ERC2,0.007518571,Co-expression,Roth-Zlotnik-2006
+CELF2,ATP2B1,0.010541785,Co-expression,Roth-Zlotnik-2006
+ERBB4,SLC6A1,0.009620776,Co-expression,Roth-Zlotnik-2006
+KCNC1,NRXN3,0.005327619,Co-expression,Roth-Zlotnik-2006
+DAB1,KCNC1,0.010612275,Co-expression,Roth-Zlotnik-2006
+GRIA3,GRIA2,0.026316354,Co-expression,Roth-Zlotnik-2006
+CACNG2,KCNC1,0.004787301,Co-expression,Roth-Zlotnik-2006
+GRIA1,DAB1,0.01805967,Co-expression,Roth-Zlotnik-2006
+APLP1,ADARB2,0.005044168,Co-expression,Roth-Zlotnik-2006
+APLP1,NPAS3,0.005412314,Co-expression,Roth-Zlotnik-2006
+SLC6A1,GAD1,0.007711989,Co-expression,Wang-Maris-2006
+BCL11A,GAD1,0.01072666,Co-expression,Wang-Maris-2006
+ERBB4,ZNF536,0.019200586,Co-expression,Wang-Maris-2006
+MEF2C,GAD1,0.008592146,Co-expression,Wang-Maris-2006
+MEF2C,BCL11A,0.010257854,Co-expression,Wang-Maris-2006
+GRIA3,GAD1,0.009603413,Co-expression,Wang-Maris-2006
+GRIA3,SLC6A1,0.012029701,Co-expression,Wang-Maris-2006
+GRIA3,MEF2C,0.010718325,Co-expression,Wang-Maris-2006
+GRIA1,ERC2,0.010341431,Co-expression,Wang-Maris-2006
+NR2F2,MAF,0.008567249,Co-expression,Wang-Maris-2006
+ZNF536,GAD1,0.00971403,Co-expression,Burington-Shaughnessy-2008
+NRXN3,GAD1,0.007593626,Co-expression,Burington-Shaughnessy-2008
+BCL11A,ZBTB20,0.011523536,Co-expression,Burington-Shaughnessy-2008
+ERBB4,GAD1,0.009292791,Co-expression,Burington-Shaughnessy-2008
+GRIA2,GAD1,0.006088493,Co-expression,Burington-Shaughnessy-2008
+LRRFIP1,CELF2,0.021791054,Co-expression,Burington-Shaughnessy-2008
+KCNV2,NRXN3,0.01948388,Co-expression,Burington-Shaughnessy-2008
+NR2F2,MEF2C,0.018183561,Co-expression,Burington-Shaughnessy-2008
+SLC6A1,GRIK1,0.017700741,Co-expression,Perou-Botstein-2000
+ERC2,ZNF536,0.008931151,Co-expression,Perou-Botstein-2000
+MEF2C,MAF,0.008385404,Co-expression,Perou-Botstein-2000
+CELF2,ATP2B1,0.013443903,Co-expression,Bild-Nevins-2006 B
+MEF2C,ATP2B1,0.017008012,Co-expression,Bild-Nevins-2006 B
+MEF2C,CELF2,0.009843856,Co-expression,Bild-Nevins-2006 B
+LDLR,KCNC1,0.025376296,Co-expression,Bild-Nevins-2006 B
+KCNV2,ZNF536,0.009807994,Co-expression,Bild-Nevins-2006 B
+CELF2,ZBTB20,0.012386869,Co-expression,Bahr-Bowler-2013
+MEF2C,BCL11A,0.013502338,Co-expression,Bahr-Bowler-2013
+ZNF536,ADARB2,0.005580029,Co-expression,Dobbin-Giordano-2005
+ERBB4,NPAS3,0.015738826,Co-expression,Dobbin-Giordano-2005
+GRIP1,KCNC1,0.005386347,Co-expression,Dobbin-Giordano-2005
+DAB1,GRIP1,0.002189966,Co-expression,Dobbin-Giordano-2005
+CACNG2,ELAVL2,0.005770044,Co-expression,Dobbin-Giordano-2005
+GRIA1,DAB1,0.007990729,Co-expression,Dobbin-Giordano-2005
+APLP1,ELAVL2,0.003392388,Co-expression,Dobbin-Giordano-2005
+APLP1,CACNG2,0.005148053,Co-expression,Dobbin-Giordano-2005
+SLC6A1,GRIK1,0.02190495,Co-expression,Wu-Garvey-2007
+NLGN1,ERC2,0.005043093,Co-expression,Wu-Garvey-2007
+APLP1,ZNF536,0.013033513,Co-expression,Wu-Garvey-2007
+GRIK1,ELAVL2,0.005501999,Co-expression,Perou-Botstein-1999
+GRIA2,ERC2,0.010559771,Co-expression,Chen-Brown-2002
+APLP1,NRXN3,0.029481204,Co-expression,Chen-Brown-2002
+ATP2B1,GAD2,0.01195395,Co-localization,Johnson-Shoemaker-2003
+BCL11A,CELF2,0.02160619,Co-localization,Johnson-Shoemaker-2003
+KCNC1,GRIA4,0.008988891,Co-localization,Johnson-Shoemaker-2003
+MEF2C,BCL11A,0.016267529,Co-localization,Johnson-Shoemaker-2003
+GRIA2,ATP2B1,0.00884692,Co-localization,Johnson-Shoemaker-2003
+GRIA2,NRXN3,0.017990466,Co-localization,Johnson-Shoemaker-2003
+GRIA3,NRXN3,0.013397565,Co-localization,Johnson-Shoemaker-2003
+GRIA3,GRIA2,0.007140839,Co-localization,Johnson-Shoemaker-2003
+CACNG2,ELAVL2,0.006995722,Co-localization,Johnson-Shoemaker-2003
+CACNG2,GAD1,0.008802211,Co-localization,Johnson-Shoemaker-2003
+CACNG2,NRXN3,0.013422737,Co-localization,Johnson-Shoemaker-2003
+GRIA1,CELF2,0.016446078,Co-localization,Johnson-Shoemaker-2003
+GRIA1,ERBB4,0.019101648,Co-localization,Johnson-Shoemaker-2003
+GRIA1,DAB1,0.017729484,Co-localization,Johnson-Shoemaker-2003
+GRIA1,GRIA2,0.009917008,Co-localization,Johnson-Shoemaker-2003
+NLGN1,ELAVL2,0.01661043,Co-localization,Johnson-Shoemaker-2003
+NLGN1,CACNG2,0.011915587,Co-localization,Johnson-Shoemaker-2003
+GRIK2,ERBB4,0.018503573,Co-localization,Johnson-Shoemaker-2003
+GRIK2,KCNC1,0.007696721,Co-localization,Johnson-Shoemaker-2003
+GRIK2,DAB1,0.015662903,Co-localization,Johnson-Shoemaker-2003
+GRIK2,NLGN1,0.017127166,Co-localization,Johnson-Shoemaker-2003
+GRIA4,GAD2,0.006625953,Co-localization,Schadt-Shoemaker-2004
+ATP2B1,GAD2,0.01095769,Co-localization,Schadt-Shoemaker-2004
+ATP2B1,GRIA4,0.01080545,Co-localization,Schadt-Shoemaker-2004
+GRIA2,GAD2,0.006272157,Co-localization,Schadt-Shoemaker-2004
+GRIA2,GRIA4,0.007023969,Co-localization,Schadt-Shoemaker-2004
+GRIA2,ATP2B1,0.009768185,Co-localization,Schadt-Shoemaker-2004
+GRIA3,GAD2,0.005249095,Co-localization,Schadt-Shoemaker-2004
+GRIA3,GRIA4,0.00588591,Co-localization,Schadt-Shoemaker-2004
+GRIA3,GRIA2,0.006349907,Co-localization,Schadt-Shoemaker-2004
+CSPG4,GAD2,0.007662566,Co-localization,Schadt-Shoemaker-2004
+CSPG4,GRIA2,0.008109188,Co-localization,Schadt-Shoemaker-2004
+CSPG4,GRIA3,0.007391707,Co-localization,Schadt-Shoemaker-2004
+NXPH1,FAM19A1,0.002218967,Genetic Interactions,Lin-Smith-2010
+ADARB2,PTCHD4,0.00039166,Genetic Interactions,Lin-Smith-2010
+CIT,NXPH1,0.00119482,Genetic Interactions,Lin-Smith-2010
+CIT,UNC5D,0.000620027,Genetic Interactions,Lin-Smith-2010
+CIT,ADARB2,0.00043815,Genetic Interactions,Lin-Smith-2010
+NPAS3,UNC5D,0.000417921,Genetic Interactions,Lin-Smith-2010
+NPAS3,ADARB2,0.00029533,Genetic Interactions,Lin-Smith-2010
+ELAVL2,FAM19A1,0.001861126,Genetic Interactions,Lin-Smith-2010
+GAD2,CIT,0.001611117,Genetic Interactions,Lin-Smith-2010
+GAD1,UNC5D,0.000750874,Genetic Interactions,Lin-Smith-2010
+GAD1,CIT,0.000657122,Genetic Interactions,Lin-Smith-2010
+GRIK1,GAD1,0.000645084,Genetic Interactions,Lin-Smith-2010
+ZBTB20,PTCHD4,0.000299676,Genetic Interactions,Lin-Smith-2010
+ZBTB20,UNC5D,0.000383078,Genetic Interactions,Lin-Smith-2010
+ZBTB20,CIT,0.000335248,Genetic Interactions,Lin-Smith-2010
+ZNF536,ADARB2,0.000417004,Genetic Interactions,Lin-Smith-2010
+GRIA4,UNC5D,0.000484656,Genetic Interactions,Lin-Smith-2010
+GRIA4,NPAS3,0.000285888,Genetic Interactions,Lin-Smith-2010
+GRIA4,ZBTB20,0.000262053,Genetic Interactions,Lin-Smith-2010
+ATP2B1,ADARB2,0.000367517,Genetic Interactions,Lin-Smith-2010
+ATP2B1,NPAS3,0.000306781,Genetic Interactions,Lin-Smith-2010
+ATP2B1,ZBTB20,0.000281203,Genetic Interactions,Lin-Smith-2010
+CELF2,PTCHD4,0.000231761,Genetic Interactions,Lin-Smith-2010
+CELF2,FAM19A1,0.000481506,Genetic Interactions,Lin-Smith-2010
+CELF2,UNC5D,0.000296261,Genetic Interactions,Lin-Smith-2010
+CELF2,CIT,0.000259271,Genetic Interactions,Lin-Smith-2010
+CELF2,NPAS3,0.000174758,Genetic Interactions,Lin-Smith-2010
+CELF2,GAD1,0.000313986,Genetic Interactions,Lin-Smith-2010
+CELF2,ZBTB20,0.000160188,Genetic Interactions,Lin-Smith-2010
+CELF2,ZNF536,0.000246758,Genetic Interactions,Lin-Smith-2010
+CELF2,GRIA4,0.000202664,Genetic Interactions,Lin-Smith-2010
+CELF2,ATP2B1,0.000217474,Genetic Interactions,Lin-Smith-2010
+NRXN3,ZNF536,0.000314753,Genetic Interactions,Lin-Smith-2010
+NRXN3,CELF2,0.000158021,Genetic Interactions,Lin-Smith-2010
+BCL11A,CIT,0.000340523,Genetic Interactions,Lin-Smith-2010
+BCL11A,NPAS3,0.000229525,Genetic Interactions,Lin-Smith-2010
+BCL11A,GAD1,0.000412385,Genetic Interactions,Lin-Smith-2010
+BCL11A,GRIK1,0.000334284,Genetic Interactions,Lin-Smith-2010
+BCL11A,CELF2,0.000162708,Genetic Interactions,Lin-Smith-2010
+BCL11A,NRXN3,0.000207543,Genetic Interactions,Lin-Smith-2010
+MAF,NPAS3,0.000224581,Genetic Interactions,Lin-Smith-2010
+MAF,ZBTB20,0.000205857,Genetic Interactions,Lin-Smith-2010
+MAF,ZNF536,0.000317107,Genetic Interactions,Lin-Smith-2010
+MAF,CELF2,0.000159203,Genetic Interactions,Lin-Smith-2010
+MAF,NRXN3,0.000203072,Genetic Interactions,Lin-Smith-2010
+MAF,BCL11A,0.000209095,Genetic Interactions,Lin-Smith-2010
+ERBB4,PTCHD4,0.000278315,Genetic Interactions,Lin-Smith-2010
+ERBB4,FAM19A1,0.000578228,Genetic Interactions,Lin-Smith-2010
+ERBB4,NPAS3,0.000209862,Genetic Interactions,Lin-Smith-2010
+ERBB4,GRIK1,0.000305648,Genetic Interactions,Lin-Smith-2010
+ERBB4,ZNF536,0.000296325,Genetic Interactions,Lin-Smith-2010
+ERBB4,ATP2B1,0.000261159,Genetic Interactions,Lin-Smith-2010
+ERBB4,CELF2,0.00014877,Genetic Interactions,Lin-Smith-2010
+ERBB4,NRXN3,0.000189764,Genetic Interactions,Lin-Smith-2010
+ERBB4,BCL11A,0.000195392,Genetic Interactions,Lin-Smith-2010
+ERBB4,MAF,0.000191183,Genetic Interactions,Lin-Smith-2010
+KCNC1,FAM19A1,0.002167737,Genetic Interactions,Lin-Smith-2010
+KCNC1,GAD1,0.001413561,Genetic Interactions,Lin-Smith-2010
+KCNC1,ATP2B1,0.000979067,Genetic Interactions,Lin-Smith-2010
+KCNC1,NRXN3,0.000711411,Genetic Interactions,Lin-Smith-2010
+DAB1,PTCHD4,0.000272881,Genetic Interactions,Lin-Smith-2010
+DAB1,CIT,0.000305272,Genetic Interactions,Lin-Smith-2010
+DAB1,NPAS3,0.000205765,Genetic Interactions,Lin-Smith-2010
+DAB1,GAD2,0.000906409,Genetic Interactions,Lin-Smith-2010
+DAB1,GAD1,0.000369695,Genetic Interactions,Lin-Smith-2010
+DAB1,GRIK1,0.000299679,Genetic Interactions,Lin-Smith-2010
+DAB1,ZBTB20,0.000188609,Genetic Interactions,Lin-Smith-2010
+DAB1,ZNF536,0.000290539,Genetic Interactions,Lin-Smith-2010
+DAB1,CELF2,0.000145865,Genetic Interactions,Lin-Smith-2010
+DAB1,BCL11A,0.000191577,Genetic Interactions,Lin-Smith-2010
+DAB1,MAF,0.00018745,Genetic Interactions,Lin-Smith-2010
+DAB1,ERBB4,0.000175165,Genetic Interactions,Lin-Smith-2010
+DAB1,KCNC1,0.000656682,Genetic Interactions,Lin-Smith-2010
+MEF2C,ADARB2,0.000441932,Genetic Interactions,Lin-Smith-2010
+MEF2C,CIT,0.000547296,Genetic Interactions,Lin-Smith-2010
+MEF2C,ZBTB20,0.000338142,Genetic Interactions,Lin-Smith-2010
+MEF2C,CELF2,0.000261508,Genetic Interactions,Lin-Smith-2010
+MEF2C,NRXN3,0.000333568,Genetic Interactions,Lin-Smith-2010
+MEF2C,BCL11A,0.000343462,Genetic Interactions,Lin-Smith-2010
+MEF2C,MAF,0.000336063,Genetic Interactions,Lin-Smith-2010
+GRIA2,PTCHD4,0.000397892,Genetic Interactions,Lin-Smith-2010
+GRIA2,ADARB2,0.000359429,Genetic Interactions,Lin-Smith-2010
+GRIA2,GAD2,0.001321651,Genetic Interactions,Lin-Smith-2010
+GRIA2,GRIK1,0.000436968,Genetic Interactions,Lin-Smith-2010
+GRIA2,NRXN3,0.000271295,Genetic Interactions,Lin-Smith-2010
+GRIA2,MAF,0.000273324,Genetic Interactions,Lin-Smith-2010
+KCNC2,ZBTB20,0.00035216,Genetic Interactions,Lin-Smith-2010
+KCNC2,NRXN3,0.000347397,Genetic Interactions,Lin-Smith-2010
+KCNC2,MAF,0.000349996,Genetic Interactions,Lin-Smith-2010
+GRIA3,MAF,0.000429223,Genetic Interactions,Lin-Smith-2010
+GRIA3,ERBB4,0.000401094,Genetic Interactions,Lin-Smith-2010
+GRIA3,DAB1,0.000393262,Genetic Interactions,Lin-Smith-2010
+CACNG2,ADARB2,0.001246049,Genetic Interactions,Lin-Smith-2010
+CSPG4,ADARB2,0.000937928,Genetic Interactions,Lin-Smith-2010
+CSPG4,GAD1,0.001406671,Genetic Interactions,Lin-Smith-2010
+LRRFIP1,FAM19A1,0.00095859,Genetic Interactions,Lin-Smith-2010
+LRRFIP1,UNC5D,0.000589801,Genetic Interactions,Lin-Smith-2010
+LRRFIP1,CIT,0.00051616,Genetic Interactions,Lin-Smith-2010
+LRRFIP1,NPAS3,0.000347911,Genetic Interactions,Lin-Smith-2010
+LRRFIP1,ZBTB20,0.000318905,Genetic Interactions,Lin-Smith-2010
+LRRFIP1,GRIA4,0.000403466,Genetic Interactions,Lin-Smith-2010
+LRRFIP1,CELF2,0.000246631,Genetic Interactions,Lin-Smith-2010
+LRRFIP1,MEF2C,0.000520615,Genetic Interactions,Lin-Smith-2010
+LRRFIP1,GRIA2,0.000423422,Genetic Interactions,Lin-Smith-2010
+GRIA1,ADARB2,0.000284341,Genetic Interactions,Lin-Smith-2010
+GRIA1,NPAS3,0.00023735,Genetic Interactions,Lin-Smith-2010
+GRIA1,ELAVL2,0.000650344,Genetic Interactions,Lin-Smith-2010
+GRIA1,ZBTB20,0.000217562,Genetic Interactions,Lin-Smith-2010
+GRIA1,CELF2,0.000168256,Genetic Interactions,Lin-Smith-2010
+GRIA1,GRIA3,0.000453629,Genetic Interactions,Lin-Smith-2010
+PICK1,ERBB4,0.001898179,Genetic Interactions,Lin-Smith-2010
+LDLR,NPAS3,0.001219013,Genetic Interactions,Lin-Smith-2010
+SOX18,ERBB4,0.002686284,Genetic Interactions,Lin-Smith-2010
+HDAC7,PTCHD4,0.000948649,Genetic Interactions,Lin-Smith-2010
+HDAC7,CELF2,0.000507088,Genetic Interactions,Lin-Smith-2010
+HDAC7,BCL11A,0.000666002,Genetic Interactions,Lin-Smith-2010
+VLDLR,NPAS3,0.00041588,Genetic Interactions,Lin-Smith-2010
+VLDLR,GRIK1,0.000605695,Genetic Interactions,Lin-Smith-2010
+VLDLR,NRXN3,0.000376051,Genetic Interactions,Lin-Smith-2010
+VLDLR,GRIA2,0.000506143,Genetic Interactions,Lin-Smith-2010
+NLGN1,FAM19A1,0.000799188,Genetic Interactions,Lin-Smith-2010
+NLGN1,GAD1,0.000521143,Genetic Interactions,Lin-Smith-2010
+NLGN1,GRIA4,0.000336375,Genetic Interactions,Lin-Smith-2010
+NLGN1,NRXN3,0.000262279,Genetic Interactions,Lin-Smith-2010
+NLGN1,BCL11A,0.000270058,Genetic Interactions,Lin-Smith-2010
+NLGN1,MEF2C,0.000434043,Genetic Interactions,Lin-Smith-2010
+NLGN1,GRIA3,0.000554365,Genetic Interactions,Lin-Smith-2010
+KCNG3,GAD1,0.00252441,Genetic Interactions,Lin-Smith-2010
+KCNG3,GRIK1,0.002046319,Genetic Interactions,Lin-Smith-2010
+KCNG3,GRIA2,0.001709987,Genetic Interactions,Lin-Smith-2010
+APLP1,ADARB2,0.00066374,Genetic Interactions,Lin-Smith-2010
+APLP1,GAD1,0.000995454,Genetic Interactions,Lin-Smith-2010
+APLP1,GRIK1,0.000806928,Genetic Interactions,Lin-Smith-2010
+APLP1,ZBTB20,0.000507857,Genetic Interactions,Lin-Smith-2010
+GRIK2,ELAVL2,0.000898488,Genetic Interactions,Lin-Smith-2010
+GRIK2,GAD1,0.000589157,Genetic Interactions,Lin-Smith-2010
+GRIK2,CELF2,0.000232455,Genetic Interactions,Lin-Smith-2010
+GRIK2,BCL11A,0.000305303,Genetic Interactions,Lin-Smith-2010
+GRIK2,MEF2C,0.00049069,Genetic Interactions,Lin-Smith-2010
+GRIK2,KCNC2,0.000511033,Genetic Interactions,Lin-Smith-2010
+GRIK2,GRIA1,0.000315712,Genetic Interactions,Lin-Smith-2010
+NR2F2,ADARB2,0.000616403,Genetic Interactions,Lin-Smith-2010
+NR2F2,NRXN3,0.000465258,Genetic Interactions,Lin-Smith-2010
+MEF2C,GRIP1,0.0371854,Pathway,Wu-Stein-2010
+VLDLR,DAB1,0.06412422,Pathway,Wu-Stein-2010
+GAD1,GAD2,0.68839914,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+GRIP1,GRIK1,0.1161108,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+GRIP1,GRIA4,0.07409888,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+GRIA2,GRIP1,0.042176154,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+KCNC2,KCNC1,0.54546237,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+GRIA3,GRIP1,0.1025661,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+NLGN2,NRXN3,0.32293227,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+CACNG2,GRIA4,0.28193885,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+CACNG2,GRIA2,0.16047606,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+CSPG4,GRIP1,0.118890285,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+LRRFIP1,GRIP1,0.10809873,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+GRIA1,GRIA4,0.1167253,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+GRIA1,GRIP1,0.030113801,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+GRIA1,GRIA2,0.066438586,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+GRIA1,CACNG2,0.11458002,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+PICK1,GRIK1,0.1416973,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+PICK1,GRIA4,0.09042751,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+PICK1,GRIA2,0.051470205,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+PICK1,GRIA3,0.12516785,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+PICK1,GRIA1,0.036749765,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+LDLR,DAB1,0.06403145,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+SOX18,MEF2C,0.49201506,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+HDAC7,MEF2C,0.032299347,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+VLDLR,DAB1,0.09781312,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+RHOC,CIT,0.41092694,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+NLGN1,NRXN3,0.32293227,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+KCNG3,KCNC1,0.1843041,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+KCNV2,KCNC1,0.23706086,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+APLP1,DAB1,0.124805614,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+GRIK2,GRIP1,0.048524365,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+GRIK2,GRIA2,0.10705688,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+GRIK2,GRIA1,0.07643869,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+GRIK2,PICK1,0.059217323,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+NR2F2,BCL11A,0.11888865,Physical Interactions,BIOGRID-SMALL-SCALE-STUDIES
+GRIA2,GRIP1,0.38268343,Physical Interactions,IREF-DIP
+GRIA3,GRIA2,0.64359426,Physical Interactions,IREF-DIP
+GRIA1,CACNG2,0.8660254,Physical Interactions,IREF-DIP
+PICK1,GRIA2,0.3628395,Physical Interactions,IREF-DIP
+HDAC7,MEF2C,0.3274466,Physical Interactions,IREF-DIP
+MEF2C,CIT,0.26740512,Predicted,I2D-IntAct-Mouse2Human
+GRIA2,GRIA4,0.39718446,Predicted,I2D-IntAct-Mouse2Human
+GRIA3,GRIA2,0.34132034,Predicted,I2D-IntAct-Mouse2Human
+LRRFIP1,GRIP1,0.7363851,Predicted,I2D-IntAct-Mouse2Human
+GRIA1,GRIA2,0.20638463,Predicted,I2D-IntAct-Mouse2Human
+PICK1,GRIA2,0.30229253,Predicted,I2D-IntAct-Mouse2Human
+LDLR,DAB1,0.42719385,Predicted,I2D-IntAct-Mouse2Human
+HDAC7,MEF2C,0.50889254,Predicted,I2D-IntAct-Mouse2Human
+VLDLR,DAB1,0.42719385,Predicted,I2D-IntAct-Mouse2Human
+TRIP6,MEF2C,0.50889254,Predicted,I2D-IntAct-Mouse2Human
+APLP1,DAB1,0.073345155,Predicted,I2D-IntAct-Mouse2Human
+GAD1,GAD2,1,Predicted,Wu-Stein-2010
+GRIA2,GRIA4,0.11641639,Predicted,Wu-Stein-2010
+KCNC2,KCNC1,0.63141406,Predicted,Wu-Stein-2010
+GRIA3,GRIA4,0.22018415,Predicted,Wu-Stein-2010
+GRIA3,GRIA2,0.10621657,Predicted,Wu-Stein-2010
+NLGN2,NRXN3,0.6251693,Predicted,Wu-Stein-2010
+CACNG2,GRIA4,0.37082392,Predicted,Wu-Stein-2010
+CACNG2,GRIA2,0.17888501,Predicted,Wu-Stein-2010
+CSPG4,GRIA2,0.44106793,Predicted,Wu-Stein-2010
+GRIA1,GRIK1,0.08580081,Predicted,Wu-Stein-2010
+GRIA1,GRIA4,0.11476122,Predicted,Wu-Stein-2010
+GRIA1,GRIA2,0.05536067,Predicted,Wu-Stein-2010
+GRIA1,GRIA3,0.104706414,Predicted,Wu-Stein-2010
+GRIA1,CACNG2,0.17634167,Predicted,Wu-Stein-2010
+PICK1,GRIA2,0.053257972,Predicted,Wu-Stein-2010
+PICK1,GRIA3,0.10072948,Predicted,Wu-Stein-2010
+LDLR,DAB1,0.14448722,Predicted,Wu-Stein-2010
+SOX18,MEF2C,0.28300425,Predicted,Wu-Stein-2010
+VLDLR,LDLR,0.10274522,Predicted,Wu-Stein-2010
+RHOC,CIT,0.14718665,Predicted,Wu-Stein-2010
+NLGN1,NRXN3,0.27595463,Predicted,Wu-Stein-2010
+KCNG3,KCNC1,0.2915958,Predicted,Wu-Stein-2010
+KCNV2,KCNC1,0.2915958,Predicted,Wu-Stein-2010
+APLP1,DAB1,0.12990196,Predicted,Wu-Stein-2010
+GRIK2,GRIK1,0.11199557,Predicted,Wu-Stein-2010
+GRIK2,GRIA2,0.072262146,Predicted,Wu-Stein-2010
+GRIK2,GRIA3,0.13667302,Predicted,Wu-Stein-2010
+GRIK2,GRIA1,0.07123474,Predicted,Wu-Stein-2010
+GRIK2,PICK1,0.068529114,Predicted,Wu-Stein-2010
+NR2F2,BCL11A,0.36614063,Predicted,Wu-Stein-2010
+GRIA2,GRIP1,0.1750195,Predicted,I2D-IntAct-Rat2Human
+GRIA1,GRIA2,0.1482913,Predicted,I2D-IntAct-Rat2Human
+PICK1,GRIA2,0.20441177,Predicted,I2D-IntAct-Rat2Human
+PICK1,GRIA3,0.44045168,Predicted,I2D-IntAct-Rat2Human
+GRIA2,GRIP1,0.2975305,Predicted,I2D-BIND-Mouse2Human
+CSPG4,GRIP1,0.5193767,Predicted,I2D-BIND-Mouse2Human
+LDLR,DAB1,0.3133636,Predicted,I2D-BIND-Mouse2Human
+VLDLR,DAB1,0.3133636,Predicted,I2D-BIND-Mouse2Human
+APLP1,DAB1,0.5423411,Predicted,I2D-BIND-Mouse2Human
+GRIA2,GRIP1,0.15537944,Predicted,I2D-MINT-Mouse2Human
+CSPG4,GRIP1,0.38021636,Predicted,I2D-MINT-Mouse2Human
+CSPG4,GRIA2,0.31815824,Predicted,I2D-MINT-Mouse2Human
+GRIA1,GRIA2,0.1816205,Predicted,I2D-MINT-Mouse2Human
+GRIP1,GRIA4,0.09678016,Predicted,I2D-MINT-Rat2Human
+GRIA2,GRIP1,0.048484635,Predicted,I2D-MINT-Rat2Human
+GRIA3,GRIP1,0.09931295,Predicted,I2D-MINT-Rat2Human
+GRIA1,GRIP1,0.07568352,Predicted,I2D-MINT-Rat2Human
+PICK1,GAD1,0.41615495,Predicted,I2D-MINT-Rat2Human
+PICK1,GRIA4,0.14111012,Predicted,I2D-MINT-Rat2Human
+PICK1,GRIP1,0.037561104,Predicted,I2D-MINT-Rat2Human
+PICK1,GRIA2,0.07069293,Predicted,I2D-MINT-Rat2Human
+PICK1,GRIA3,0.14480305,Predicted,I2D-MINT-Rat2Human
+GAD1,GAD2,0.14285715,Shared protein domains,PFAM
+GRIA4,GRIK1,0.043422285,Shared protein domains,PFAM
+CELF2,ELAVL2,0.003855962,Shared protein domains,PFAM
+BCL11A,ZNF536,0.005539129,Shared protein domains,PFAM
+GRIA2,GRIK1,0.043422285,Shared protein domains,PFAM
+GRIA2,GRIA4,0.06910934,Shared protein domains,PFAM
+KCNC2,KCNC1,0.023835031,Shared protein domains,PFAM
+GRIA3,GRIK1,0.04433052,Shared protein domains,PFAM
+GRIA3,GRIA4,0.043422285,Shared protein domains,PFAM
+GRIA3,GRIA2,0.043422285,Shared protein domains,PFAM
+CSPG4,NRXN3,0.01962112,Shared protein domains,PFAM
+GRIA1,GRIK1,0.04433052,Shared protein domains,PFAM
+GRIA1,GRIA4,0.043422285,Shared protein domains,PFAM
+GRIA1,GRIA2,0.043422285,Shared protein domains,PFAM
+GRIA1,GRIA3,0.04433052,Shared protein domains,PFAM
+PICK1,GRIP1,0.011947693,Shared protein domains,PFAM
+VLDLR,LDLR,0.037568215,Shared protein domains,PFAM
+NLGN1,NLGN2,0.08031935,Shared protein domains,PFAM
+KCNG3,KCNC1,0.023835031,Shared protein domains,PFAM
+KCNG3,KCNC2,0.023835031,Shared protein domains,PFAM
+KCNV2,KCNC1,0.023835031,Shared protein domains,PFAM
+KCNV2,KCNC2,0.023835031,Shared protein domains,PFAM
+KCNV2,KCNG3,0.023835031,Shared protein domains,PFAM
+GRIK2,GRIK1,0.04433052,Shared protein domains,PFAM
+GRIK2,GRIA4,0.043422285,Shared protein domains,PFAM
+GRIK2,GRIA2,0.043422285,Shared protein domains,PFAM
+GRIK2,GRIA3,0.04433052,Shared protein domains,PFAM
+GRIK2,GRIA1,0.04433052,Shared protein domains,PFAM
+GAD1,GAD2,0.07267582,Shared protein domains,INTERPRO
+GRIA4,GRIK1,0.041972898,Shared protein domains,INTERPRO
+CELF2,ELAVL2,0.02908703,Shared protein domains,INTERPRO
+BCL11A,ZNF536,0.003491026,Shared protein domains,INTERPRO
+GRIA2,GRIK1,0.041972898,Shared protein domains,INTERPRO
+GRIA2,GRIA4,0.05723623,Shared protein domains,INTERPRO
+KCNC2,KCNC1,0.03234248,Shared protein domains,INTERPRO
+GRIA3,GRIK1,0.042483553,Shared protein domains,INTERPRO
+GRIA3,GRIA4,0.041972898,Shared protein domains,INTERPRO
+GRIA3,GRIA2,0.041972898,Shared protein domains,INTERPRO
+CSPG4,NRXN3,0.013080772,Shared protein domains,INTERPRO
+GRIA1,GRIK1,0.042483553,Shared protein domains,INTERPRO
+GRIA1,GRIA4,0.041972898,Shared protein domains,INTERPRO
+GRIA1,GRIA2,0.041972898,Shared protein domains,INTERPRO
+GRIA1,GRIA3,0.042483553,Shared protein domains,INTERPRO
+PICK1,GRIP1,0.01466509,Shared protein domains,INTERPRO
+VLDLR,LDLR,0.017521681,Shared protein domains,INTERPRO
+NLGN1,NLGN2,0.058890454,Shared protein domains,INTERPRO
+KCNG3,KCNC1,0.023026023,Shared protein domains,INTERPRO
+KCNG3,KCNC2,0.023026014,Shared protein domains,INTERPRO
+KCNV2,KCNC1,0.022366658,Shared protein domains,INTERPRO
+KCNV2,KCNC2,0.022366654,Shared protein domains,INTERPRO
+KCNV2,KCNG3,0.030326484,Shared protein domains,INTERPRO
+GRIK2,GRIK1,0.042483553,Shared protein domains,INTERPRO
+GRIK2,GRIA4,0.041972898,Shared protein domains,INTERPRO
+GRIK2,GRIA2,0.041972898,Shared protein domains,INTERPRO
+GRIK2,GRIA3,0.042483553,Shared protein domains,INTERPRO
+GRIK2,GRIA1,0.042483553,Shared protein domains,INTERPRO
